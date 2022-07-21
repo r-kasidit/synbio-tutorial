@@ -1,0 +1,954 @@
+Rxn name	Formula	Gene-reaction association	LB	UB	Objective
+QUIND	pqqox_c + quin_c  -> 3dhq_c + h_c + pqqrd_c 	AC5u0009GL000942	  0.00	1000.00	  0.00
+ALATRS	ala__L_c + atp_c + trnaala_c  -> alatrna_c + amp_c + ppi_c 	AC5u0009GL000651 or AC5u0009GL002145	  0.00	1000.00	  0.00
+SDPDS	h2o_c + sl26da_c  -> 26dap_LL_c + succ_c 	AC5u0009GL000615 or AC5u0009GL001436 or AC5u0009GL001051 or AC5u0009GL000799	  0.00	1000.00	  0.00
+ALDD2x	acald_c + h2o_c + nad_c  -> ac_c + 2 h_c + nadh_c 	AC5u0009GL000754	  0.00	1000.00	  0.00
+G6PI	g6p_c  <=> g6p_B_c 	AC5u0009GL000149	-1000.00	1000.00	  0.00
+ADSS	asp__L_c + gtp_c + imp_c  -> dcamp_c + gdp_c + 2 h_c + pi_c 	AC5u0009GL000394	  0.00	1000.00	  0.00
+PRPPS	atp_c + r5p_c  <=> amp_c + h_c + prpp_c 	AC5u0009GL000583 or AC5u0009GL001353	-1000.00	1000.00	  0.00
+ASNTRS	asn__L_c + atp_c + trnaasn_c  -> amp_c + asntrna_c + ppi_c 	AC5u0009GL000453	  0.00	1000.00	  0.00
+TMDS	dump_c + mlthf_c  -> dhf_c + dtmp_c 	AC5u0009GL001567	  0.00	1000.00	  0.00
+DTMPK	atp_c + dtmp_c  -> adp_c + dtdp_c 	AC5u0009GL000763	  0.00	1000.00	  0.00
+SSALy	h2o_c + nadp_c + sucsal_c  -> 2 h_c + nadph_c + succ_c 	AC5u0009GL001521	  0.00	1000.00	  0.00
+Coabc	atp_c + cobalt2_e + h2o_c  -> adp_c + cobalt2_c + h_c + pi_c 	AC5u0009GL001887 or AC5u0009GL001885 or AC5u0009GL000316 or AC5u0009GL000317 or AC5u0009GL001886 or AC5u0009GL000318 or AC5u0009GL001888	  0.00	1000.00	  0.00
+HDER4	3oxdeacp_c + h_c + nadph_c  -> 3hdeacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+DRIBt2	drib_e + h_e  -> drib_c + h_c 	AC5u0009GL000984	  0.00	1000.00	  0.00
+ASNN	asn__L_c + h2o_c  -> asp__L_c + nh4_c 	AC5u0009GL000465	  0.00	1000.00	  0.00
+DAGK_LRE	atp_c + dag_LRE_c  -> adp_c + h_c + pa_LRE_c 	AC5u0009GL001598 or AC5u0009GL000332	  0.00	1000.00	  0.00
+GLYBt6	glyb_e + h_e  <=> glyb_c + h_c 	AC5u0009GL000918	-1000.00	1000.00	  0.00
+LYSt6	h_e + lys__L_e  <=> h_c + lys__L_c 	AC5u0009GL001222	-1000.00	1000.00	  0.00
+PUNP1	adn_c + pi_c  <=> ade_c + r1p_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+CTPS2	atp_c + gln__L_c + h2o_c + utp_c  -> adp_c + ctp_c + glu__L_c + 2 h_c + pi_c 	AC5u0009GL000571 or AC5u0009GL000351 or AC5u0009GL000367	  0.00	1000.00	  0.00
+PYRZAM	h2o_c + malm_c  -> male_c + nh4_c 	AC5u0009GL000346	  0.00	1000.00	  0.00
+ACLS	h_c + 2 pyr_c  -> alac__S_c + co2_c 	AC5u0009GL000907	  0.00	1000.00	  0.00
+OCDMAT8	2tocdacp_c + h_c + nadh_c  -> nad_c + ocdacp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+GLUt6	glu__L_e + h_e  <=> glu__L_c + h_c 	AC5u0009GL002024	-1000.00	1000.00	  0.00
+G35DP	ppgpp_c + h2o_c  -> gdp_c + ppi_c 	AC5u0009GL000169	  0.00	1000.00	  0.00
+GLYCK	atp_c + glyc__R_c  -> 3pg_c + adp_c + h_c 	AC5u0009GL001365	  0.00	1000.00	  0.00
+HTDR6	3oxtdacp_c + h_c + nadph_c  -> 3htdacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+PUNP5	ins_c + pi_c  <=> hxan_c + r1p_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+ARGTRS	arg__L_c + atp_c + trnaarg_c  -> amp_c + argtrna_c + ppi_c 	AC5u0009GL000842 or AC5u0009GL001073	  0.00	1000.00	  0.00
+FA181ACPH	h2o_c + octeACP_c  <=> ACP_c + h_c + ocdcea_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+PGPP_LRE	h2o_c + pgp_LRE_c  -> pg_LRE_c + pi_c 	AC5u0009GL000931	  0.00	1000.00	  0.00
+GTPDPK	atp_c + gtp_c  -> amp_c + gdptp_c + h_c 	AC5u0009GL000405 or AC5u0009GL001811 or AC5u0009GL000169	  0.00	1000.00	  0.00
+GALS3	h2o_c + melib_c  -> gal_c + glc__D_c 	AC5u0009GL000933 or AC5u0009GL001744	  0.00	1000.00	  0.00
+PPN13D	13ppd_c + nad_c  <=> 3hppnl_c + h_c + nadh_c 	AC5u0009GL001517	-1000.00	1000.00	  0.00
+PUNP7	pi_c + xtsn_c  <=> r1p_c + xan_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+FA180ACPH	h2o_c + ocdcaACP_c  <=> ACP_c + h_c + ocdca_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+SHCHD2	nad_c + shcl_c  -> h_c + nadh_c + srch_c 	AC5u0009GL001883	  0.00	1000.00	  0.00
+APAT	accoa_c + h2o_c + thdp_c  <=> acamoxm_c + coa_c 	AC5u0009GL001357	-1000.00	1000.00	  0.00
+DNTPPA	ahdt_c + h2o_c  -> dhpmp_c + h_c + ppi_c 	AC5u0009GL000848 or AC5u0009GL001067	  0.00	1000.00	  0.00
+PPCDC	4ppcys_c + h_c  -> co2_c + pan4p_c 	AC5u0009GL000026	  0.00	1000.00	  0.00
+MCMAT3	h_c + hexACP_c + malACP_c  -> 3oxocacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+OCBT	cbp_c + orn__L_c  <=> citr__L_c + h_c + pi_c 	AC5u0009GL000144	-1000.00	1000.00	  0.00
+ADPTA	akg_c + n6all26d + h_c  <=> acamoxm_c + glu__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+PRFGS	atp_c + fgam_c + gln__L_c + h2o_c  -> adp_c + fpram_c + glu__L_c + h_c + pi_c 	AC5u0009GL000894 or AC5u0009GL000895	  0.00	1000.00	  0.00
+PAPPT5	udcpp_c + ugmdalac_c  -> uagmdalac_c + ump_c 	AC5u0009GL001332	  0.00	1000.00	  0.00
+FCLT	fe2_c + ppp9_c  -> 2 h_c + pheme_c 	AC5u0009GL001301	  0.00	1000.00	  0.00
+DEMAT4	2tdeacp_c + h_c + nadh_c  -> decacp_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+DAPDC	26dap_M_c + h_c  -> co2_c + lys__L_c 	AC5u0009GL001356	  0.00	1000.00	  0.00
+PPBNGS	2 5aop_c  -> 2 h2o_c + h_c + ppbng_c 	AC5u0009GL001880	  0.00	1000.00	  0.00
+CYTK1	atp_c + cmp_c  -> adp_c + cdp_c 	AC5u0009GL001574	  0.00	1000.00	  0.00
+RBFK	atp_c + ribflv_c  -> adp_c + fmn_c + h_c 	AC5u0009GL000185	  0.00	1000.00	  0.00
+CYTK2	atp_c + dcmp_c  -> adp_c + dcdp_c 	AC5u0009GL001574	  0.00	1000.00	  0.00
+FMNAT	atp_c + fmn_c + h_c  -> fad_c + ppi_c 	AC5u0009GL000185	  0.00	1000.00	  0.00
+HHYR2	3oxhacp_c + h_c + nadph_c  -> 3hhacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+PRAGSr	atp_c + gly_c + pram_c  <=> adp_c + gar_c + h_c + pi_c 	AC5u0009GL000889	-1000.00	1000.00	  0.00
+METACH	achms_c + h2s_c  <=> ac_c + h_c + hcys__L_c 	AC5u0009GL000439	-1000.00	1000.00	  0.00
+NNDMBRT	ade_c + nicrnt_c  -> h_c + nac_c + prbade_c[] 	AC5u0009GL001874	  0.00	1000.00	  0.00
+MCMAT6	ddeacp_c + h_c + malACP_c  -> 3oxtdacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+SRCHCOC	cobalt2_c + shcl_c  -> copre2_c + 3 h_c 	AC5u0009GL001890	  0.00	1000.00	  0.00
+UPP3MT	2 amet_c + uppg3_c  -> 2 ahcys_c + h_c + shcl_c 	AC5u0009GL001891	  0.00	1000.00	  0.00
+G6PDH2r	g6p_c + nadp_c  <=> 6pgl_c + h_c + nadph_c 	AC5u0009GL002016	-1000.00	1000.00	  0.00
+TMDK1	atp_c + thymd_c  -> adp_c + dtmp_c + h_c 	AC5u0009GL000120	  0.00	1000.00	  0.00
+ADEADOCBLPP	h2o_c + adeadocblp_c[]  -> pi_c + adeadocbl_c[] 	AC5u0009GL001876	  0.00	1000.00	  0.00
+HMPabc	4ahmmp_e + atp_c + h2o_c  -> 4ahmmp_c + adp_c + h_c + pi_c 	AC5u0009GL001218 and AC5u0009GL001217	  0.00	1000.00	  0.00
+ACLDC	alac__S_c + h_c  -> actn__R_c + co2_c 	AC5u0009GL000906	  0.00	1000.00	  0.00
+UDPG4E	udpg_c  <=> udpgal_c 	AC5u0009GL000772	-1000.00	1000.00	  0.00
+GLTAL	LTA_LRE_c + 20 udpg_c  -> LTAglc_LRE_c + 20 h_c + 20 udp_c 	AC5u0009GL001177 or AC5u0009GL001178	  0.00	1000.00	  0.00
+aratry2	3mop_c + trp__L_c  <=> ile__L_c + indpyr_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591 or AC5u0009GL001956	-1000.00	1000.00	  0.00
+G3PD1	glyc3p_c + nad_c  <=> dhap_c + h_c + nadh_c 	AC5u0009GL000793	-1000.00	1000.00	  0.00
+RNTR2	gtp_c + trdrd_c  -> dgtp_c + h2o_c + trdox_c 	AC5u0009GL001026 or AC5u0009GL001728 or AC5u0009GL001940	  0.00	1000.00	  0.00
+AALDH	h_c + nadh_c + pacald_c  <=> nad_c + 2phetoh_c 	AC5u0009GL001122 or AC5u0009GL002010	-1000.00	1000.00	  0.00
+DALTAL	LTA_LRE_c + 20 ala__D_c + 20 atp_c  -> LTAala_LRE_c + 20 adp_c + 20 pi_c 	AC5u0009GL000370 or AC5u0009GL000371 or AC5u0009GL000368 or AC5u0009GL000369	  0.00	1000.00	  0.00
+THRt3	h_e + thr__L_c  -> h_c + thr__L_e 	AC5u0009GL001226 or AC5u0009GL001105 or AC5u0009GL001225	  0.00	1000.00	  0.00
+SERD_L	ser__L_c  -> nh4_c + pyr_c 	AC5u0009GL001472 and AC5u0009GL001471	  0.00	1000.00	  0.00
+RHC	h2o_c + rhcys_c  -> hcys__L_c + rib__D_c 	AC5u0009GL001392	  0.00	1000.00	  0.00
+DHFOR2	dhf_c + nadp_c  <=> fol_c + h_c + nadph_c 	AC5u0009GL001566	-1000.00	1000.00	  0.00
+FLVR	h_c + nadph_c + ribflv_c  -> nadp_c + ribflvRD_c 	AC5u0009GL001307 or AC5u0009GL001308	  0.00	1000.00	  0.00
+DXPS	g3p_c + h_c + pyr_c  -> co2_c + dxyl5p_c 	AC5u0009GL000870	  0.00	1000.00	  0.00
+GALU	g1p_c + h_c + utp_c  <=> ppi_c + udpg_c 	AC5u0009GL000794	-1000.00	1000.00	  0.00
+COBALTt5	cobalt2_c  <=> cobalt2_e 	AC5u0009GL001488	-1000.00	1000.00	  0.00
+MCMAT8	h_c + malACP_c + palmACP_c  -> 3oxocdacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+TDPDRR	dtdprmn_c + nadp_c  <=> dtdp4d6dm_c + h_c + nadph_c 	AC5u0009GL001414	-1000.00	1000.00	  0.00
+FA182ACPH	h2o_c + ocdcyaACP_c  <=> ACP_c + h_c + ocdcya_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+DHNPA	dhnpt_c  -> 2ahhmp_c + gcald_c 	AC5u0009GL001062	  0.00	1000.00	  0.00
+GALM	gal_c  <=> a_gal__D_c 	AC5u0009GL001430	-1000.00	1000.00	  0.00
+PRAIS	atp_c + fpram_c  -> adp_c + air_c + 2 h_c + pi_c 	AC5u0009GL000892	  0.00	1000.00	  0.00
+FA160ACPH	h2o_c + palmACP_c  <=> ACP_c + h_c + hdca_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+PYNP1r	csn_c + r1p_c  <=> cytd_c + pi_c 	AC5u0009GL001506	-1000.00	1000.00	  0.00
+ILETRS	atp_c + ile__L_c + trnaile_c  -> amp_c + iletrna_c + ppi_c 	AC5u0009GL001342	  0.00	1000.00	  0.00
+UAGPT5	uacgam_c + uagmdalac_c  -> h_c + uaagmdalac_c + udp_c 	AC5u0009GL001334	  0.00	1000.00	  0.00
+PIabc	atp_c + h2o_c + pi_e  -> adp_c + h_c + 2 pi_c 	AC5u0009GL001317 or AC5u0009GL001314 or AC5u0009GL001313 or AC5u0009GL001315 or AC5u0009GL001316	  0.00	1000.00	  0.00
+LEUTRS	atp_c + leu__L_c + trnaleu_c  -> amp_c + leutrna_c + ppi_c 	AC5u0009GL001047	  0.00	1000.00	  0.00
+METabc	atp_c + h2o_c + met__L_e  -> adp_c + h_c + met__L_c + pi_c 	AC5u0009GL000612 or AC5u0009GL000613 or AC5u0009GL000668 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001848 or AC5u0009GL002128 or AC5u0009GL000614	  0.00	1000.00	  0.00
+GK1	atp_c + gmp_c  -> adp_c + gdp_c 	AC5u0009GL000028	  0.00	1000.00	  0.00
+TMPPP	2mahmp_c + 4mpetz_c + h_c  -> ppi_c + thmmp_c 	AC5u0009GL000271	  0.00	1000.00	  0.00
+GUAPRT	gua_c + prpp_c  -> gmp_c + ppi_c 	AC5u0009GL000386 or AC5u0009GL001821	  0.00	1000.00	  0.00
+GLYTRS	atp_c + gly_c + trnagly_c  -> amp_c + glytrna_c + ppi_c 	AC5u0009GL001595 and AC5u0009GL001594	  0.00	1000.00	  0.00
+NTD9	gmp_c + h2o_c  -> gsn_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD8	dgmp_c + h2o_c  -> dgsn_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+GALSZ	h2o_c + lcts_c  -> gal_c + glc__D_c 	AC5u0009GL000721 or AC5u0009GL000722	  0.00	1000.00	  0.00
+ADSL2r	25aics_c  <=> aicar_c + fum_c 	AC5u0009GL000898	-1000.00	1000.00	  0.00
+ADSL1r	dcamp_c  <=> amp_c + fum_c 	AC5u0009GL000898	-1000.00	1000.00	  0.00
+NTD1	dump_c + h2o_c  -> duri_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD2	h2o_c + ump_c  -> pi_c + uri_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD5	dtmp_c + h2o_c  -> pi_c + thymd_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD4	cmp_c + h2o_c  -> cytd_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD7	amp_c + h2o_c  -> adn_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+NTD6	damp_c + h2o_c  -> dad_2_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+ALAR	ala__L_c  <=> ala__D_c 	AC5u0009GL000374	-1000.00	1000.00	  0.00
+kaasIII	accoa_c + h_c + malACP_c  -> actACP_c + co2_c + coa_c 	AC5u0009GL000231	  0.00	1000.00	  0.00
+DHAt	dha_e  <=> dha_c 	AC5u0009GL001930	-1000.00	1000.00	  0.00
+UGLDDS2	alaala_c + atp_c + uGgl_c  -> adp_c + h_c + pi_c + uGgla_c 	AC5u0009GL000365	  0.00	1000.00	  0.00
+AICART	10fthf_c + aicar_c  <=> fprica_c + thf_c 	AC5u0009GL000890	-1000.00	1000.00	  0.00
+CYSS	acser_c + h2s_c  -> ac_c + cys__L_c + h_c 	AC5u0009GL001444 or AC5u0009GL002043	  0.00	1000.00	  0.00
+RNDR4	trdrd_c + udp_c  -> dudp_c + h2o_c + trdox_c 	AC5u0009GL000755 or AC5u0009GL000756 or AC5u0009GL000645 or AC5u0009GL002151 or AC5u0009GL000828 or AC5u0009GL001087 or AC5u0009GL001491	  0.00	1000.00	  0.00
+PGGT4	uaagmdalac_c  -> PGlac2_c + udcpdp_c 	AC5u0009GL000841 or AC5u0009GL001074 or AC5u0009GL001732 or AC5u0009GL001331	  0.00	1000.00	  0.00
+DASYN_LRE	ctp_c + h_c + pa_LRE_c  <=> cdpdag_LRE_c + ppi_c 	AC5u0009GL000196	-1000.00	1000.00	  0.00
+FA140ACPH	h2o_c + myrsACP_c  <=> ACP_c + h_c + ttdca_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+ALALAC	ala__D_c + atp_c + lac__D_c  <=> adp_c + alalac_c + pi_c 	AC5u0009GL000096	-1000.00	1000.00	  0.00
+NAPRT	h_c + nac_c + prpp_c  -> nicrnt_c + ppi_c 	AC5u0009GL000345 or AC5u0009GL000718	  0.00	1000.00	  0.00
+ASPTA5	akg_c + tyr__L_c  <=> 34hpp_c + glu__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL000780 or AC5u0009GL001361 or AC5u0009GL001591 or AC5u0009GL001902	-1000.00	1000.00	  0.00
+CBLAT	atp_c + cbl1_c + h_c  <=> adocbl_c + pppi_c 	AC5u0009GL001915 or AC5u0009GL001903	-1000.00	1000.00	  0.00
+GLYK	atp_c + glyc_c  -> adp_c + glyc3p_c + h_c 	AC5u0009GL001478	  0.00	1000.00	  0.00
+HOCR3	3oxocacp_c + h_c + nadph_c  -> 3hocacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+BTMAT1	but2eACP_c + h_c + nadh_c  -> butACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+UAG2E	uacgam_c  <=> uacmam_c 	AC5u0009GL000746 or AC5u0009GL001165	-1000.00	1000.00	  0.00
+FA120ACPH	ddcaACP_c + h2o_c  <=> ACP_c + ddca_c + h_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+MOADCST	MCOOH_c + atp_c + cys__L_c + h2o_c  -> MCOSH_c + amp_c + ppi_c + ser__L_c 	AC5u0009GL000683 or AC5u0009GL001347 or AC5u0009GL001760 or AC5u0009GL000682	  0.00	1000.00	  0.00
+DHORD6	dhor__S_c + nad_c  <=> h_c + nadh_c + orot_c 	AC5u0009GL001495	-1000.00	1000.00	  0.00
+UAMAGS	atp_c + glu__D_c + uama_c  -> adp_c + h_c + pi_c + uamag_c 	AC5u0009GL001333	  0.00	1000.00	  0.00
+PPNCL	4ppan_c + ctp_c + cys__L_c  -> 4ppcys_c + cdp_c + h_c + pi_c 	AC5u0009GL000026	  0.00	1000.00	  0.00
+ACHBS	2obut_c + h_c + pyr_c  -> 2ahbut_c + co2_c 	AC5u0009GL000907	  0.00	1000.00	  0.00
+HMPK1	4ahmmp_c + atp_c  -> 4ampm_c + adp_c + h_c 	AC5u0009GL000270 or AC5u0009GL000843 or AC5u0009GL001072	  0.00	1000.00	  0.00
+NTD3	dcmp_c + h2o_c  -> dcyt_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+CFAS180	amet_c + octeACP_c  -> ahcys_c + cpocdacp_c + h_c 	AC5u0009GL000910	  0.00	1000.00	  0.00
+DHFR	dhf_c + h_c + nadph_c  <=> nadp_c + thf_c 	AC5u0009GL001566	-1000.00	1000.00	  0.00
+TDPGDH	dtdpglu_c  -> dtdp4d6dg_c + h2o_c 	AC5u0009GL001415	  0.00	1000.00	  0.00
+FMETTRS	10fthf_c + mettrna_c  -> fmettrna_c + h_c + thf_c 	AC5u0009GL000024	  0.00	1000.00	  0.00
+FTHFL	atp_c + for_c + thf_c  -> 10fthf_c + adp_c + pi_c 	AC5u0009GL000908	  0.00	1000.00	  0.00
+CYSabc	atp_c + cys__L_e + h2o_c  -> adp_c + cys__L_c + h_c + pi_c 	AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL002128 or AC5u0009GL000729 or AC5u0009GL000727	  0.00	1000.00	  0.00
+ALCD2x	etoh_c + nad_c  <=> acald_c + h_c + nadh_c 	AC5u0009GL000790 or AC5u0009GL000754 or AC5u0009GL001289 or AC5u0009GL001680 or AC5u0009GL001858	-1000.00	1000.00	  0.00
+GLUTRS	atp_c + glu__L_c + trnaglu_c  -> amp_c + glutrna_c + ppi_c 	AC5u0009GL000056	  0.00	1000.00	  0.00
+GLUTRR	glutrna_c + h_c + nadph_c  -> glu1sa_c + nadp_c + trnaglu_c 	AC5u0009GL001882	  0.00	1000.00	  0.00
+DKGLCNR2y	25dkglcn_c + h_c + nadph_c  -> 5dglcn_c + nadp_c 	AC5u0009GL000399 or AC5u0009GL000463 or AC5u0009GL002037 or AC5u0009GL000462	  0.00	1000.00	  0.00
+DKGLCNR2x	25dkglcn_c + h_c + nadh_c  -> 5dglcn_c + nad_c 	AC5u0009GL000399 or AC5u0009GL000463 or AC5u0009GL002037	  0.00	1000.00	  0.00
+GLYCt5	glyc_c  <=> glyc_e 	AC5u0009GL001930	-1000.00	1000.00	  0.00
+G5SD	glu5p_c + h_c + nadph_c  -> glu5sa_c + nadp_c + pi_c 	AC5u0009GL000777	  0.00	1000.00	  0.00
+VALTRS	atp_c + trnaval_c + val__L_c  -> amp_c + ppi_c + valtrna_c 	AC5u0009GL000681	  0.00	1000.00	  0.00
+HODHL8	3hocdacp_c  -> 2tocdacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+ACPS2	apoACP_c + coa_c  -> ACP_c + h_c + pap_c 	AC5u0009GL000373	  0.00	1000.00	  0.00
+THRPDC	h_c + thrp_c  -> applp_c + co2_c 	AC5u0009GL001902	  0.00	1000.00	  0.00
+TRDR	h_c + nadph_c + trdox_c  -> nadp_c + trdrd_c 	AC5u0009GL000798 or AC5u0009GL001474 or AC5u0009GL000835 or AC5u0009GL001080	  0.00	1000.00	  0.00
+HOCHL3	3hocacp_c  -> 2toceacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+ORNt2	h_e + orn__L_e  -> h_c + orn__L_c 	AC5u0009GL000124	  0.00	1000.00	  0.00
+ADCOBAPS	applp_c + adcobhex_c + atp_c  -> adocbip_c + adp_c + h_c + pi_c 	AC5u0009GL001900	  0.00	1000.00	  0.00
+PGL	6pgl_c + h2o_c  -> 6pgc_c + h_c 	AC5u0009GL001322	  0.00	1000.00	  0.00
+PGLYCP	2pglyc_c + h2o_c  -> glyclt_c + pi_c 	AC5u0009GL002089	  0.00	1000.00	  0.00
+RNDR3	cdp_c + trdrd_c  -> dcdp_c + h2o_c + trdox_c 	AC5u0009GL000755 or AC5u0009GL000756	  0.00	1000.00	  0.00
+GLU5K	atp_c + glu__L_c  -> adp_c + glu5p_c 	AC5u0009GL000778	  0.00	1000.00	  0.00
+PPM	r1p_c  <=> r5p_c 	AC5u0009GL001507 or AC5u0009GL000923	-1000.00	1000.00	  0.00
+MEVK3	gtp_c + mev__R_c  -> 5pmev_c + gdp_c + h_c 	AC5u0009GL001737	  0.00	1000.00	  0.00
+MEVK2	ctp_c + mev__R_c  -> 5pmev_c + cdp_c + h_c 	AC5u0009GL001737	  0.00	1000.00	  0.00
+HDMAT7	2thdeacp_c + h_c + nadh_c  -> nad_c + palmACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+MEVK4	mev__R_c + utp_c  -> 5pmev_c + h_c + udp_c 	AC5u0009GL001737	  0.00	1000.00	  0.00
+AMMQT7	2dmmq7_c + amet_c + nadph_c  -> ahcys_c + mql7_c + nadp_c 	AC5u0009GL001463	  0.00	1000.00	  0.00
+LYSDC	h_c + lys__L_c  -> 15dap_c + co2_c 	AC5u0009GL001169	  0.00	1000.00	  0.00
+ASPTA6	akg_c + phe__L_c  <=> glu__L_c + phpyr_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL000780 or AC5u0009GL001361 or AC5u0009GL001591 or AC5u0009GL001902	-1000.00	1000.00	  0.00
+NNAM	h2o_c + ncam_c  -> nac_c + nh4_c 	AC5u0009GL000346	  0.00	1000.00	  0.00
+ASPTA4	akg_c + cys__L_c  <=> glu__L_c + mercppyr_c 	AC5u0009GL000780	-1000.00	1000.00	  0.00
+DPCOAK	atp_c + dpcoa_c  -> adp_c + coa_c + h_c 	AC5u0009GL000820 or AC5u0009GL001095	  0.00	1000.00	  0.00
+ASPTA2	4hglu_c + akg_c  <=> 4h2oxg_c + glu__L_c 	AC5u0009GL000780	-1000.00	1000.00	  0.00
+GLNTAL	atp_c + gln__L_c + glutrna_c + h2o_c  <=> adp_c + glntrna_c + glu__L_c + h_c + pi_c 	AC5u0009GL000331 or AC5u0009GL000330 or AC5u0009GL000329	-1000.00	1000.00	  0.00
+ASPTA	akg_c + asp__L_c  <=> glu__L_c + oaa_c 	AC5u0009GL000780	-1000.00	1000.00	  0.00
+HODR8	3oxocdacp_c + h_c + nadph_c  -> 3hocdacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+VALt6	h_e + val__L_e  <=> h_c + val__L_c 	AC5u0009GL001196 or AC5u0009GL001499 or AC5u0009GL001500 or AC5u0009GL002064	-1000.00	1000.00	  0.00
+UGLDDS1	alaala_c + atp_c + uAgl_c  -> adp_c + pi_c + uAgla_c 	AC5u0009GL000365	  0.00	1000.00	  0.00
+HDDR5	3oxddacp_c + h_c + nadph_c  -> 3hddacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+DHPPDA__1	25dhpp_c + h2o_c + h_c  -> 5apru_c + nh4_c 	AC5u0009GL001777	  0.00	1000.00	  0.00
+ARGabc	arg__L_e + atp_c + h2o_c  -> adp_c + arg__L_c + h_c + pi_c 	AC5u0009GL000164 or AC5u0009GL000669 or AC5u0009GL001684 or AC5u0009GL002127 or AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL001849 or AC5u0009GL002128	  0.00	1000.00	  0.00
+TDMAT6	2ttdeacp_c + h_c + nadh_c  -> nad_c + tdeacp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+DPMVD	5dpmev_c + atp_c  -> adp_c + co2_c + ipdp_c + pi_c 	AC5u0009GL001738	  0.00	1000.00	  0.00
+DKGLCNR1	25dkglcn_c + h_c + nadph_c  -> 2dhguln_c + nadp_c 	AC5u0009GL000399 or AC5u0009GL000463 or AC5u0009GL002037	  0.00	1000.00	  0.00
+HHDR7	3oxhdacp_c + h_c + nadph_c  -> 3hpaacp_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+DHDPRy	23dhdp_c + h_c + nadph_c  -> nadp_c + thdp_c 	AC5u0009GL001360	  0.00	1000.00	  0.00
+GF6PTA	f6p_c + gln__L_c  -> gam6p_c + glu__L_c 	AC5u0009GL000988	  0.00	1000.00	  0.00
+PROTRS	atp_c + pro__L_c + trnapro_c  -> amp_c + ppi_c + protrna_c 	AC5u0009GL000194	  0.00	1000.00	  0.00
+THFGLUS	atp_c + glu__L_c + thf_c  <=> adp_c + h_c + pi_c + thfglu_c 	AC5u0009GL000849 or AC5u0009GL001065 or AC5u0009GL001066 or AC5u0009GL000674 or AC5u0009GL002122	-1000.00	1000.00	  0.00
+MTHPTGHM	5mthglu_c + hcys__L_c  -> met__L_c + thglu_c 	AC5u0009GL000437	  0.00	1000.00	  0.00
+PNTK	atp_c + pnto__R_c  -> 4ppan_c + adp_c + h_c 	AC5u0009GL000965	  0.00	1000.00	  0.00
+ACCOAC	accoa_c + atp_c + hco3_c  -> adp_c + h_c + malcoa_c + pi_c 	AC5u0009GL001601 and AC5u0009GL000226 and AC5u0009GL000222 and AC5u0009GL000223 and AC5u0009GL000224	  0.00	1000.00	  0.00
+ICDHy	icit_c + nadp_c  <=> akg_c + co2_c + nadph_c 	AC5u0009GL001348	-1000.00	1000.00	  0.00
+CYTD	cytd_c + h2o_c + h_c  -> nh4_c + uri_c 	AC5u0009GL001387	  0.00	1000.00	  0.00
+TPI	dhap_c  <=> g3p_c 	AC5u0009GL000359 or AC5u0009GL000936 or AC5u0009GL001871	-1000.00	1000.00	  0.00
+COPREC6MT	2 amet_c + codhpre6_c  -> 2 ahcys_c + co2_c + copre8_c + h_c 	AC5u0009GL001897 or AC5u0009GL001896	  0.00	1000.00	  0.00
+HDEHL4	3hdeacp_c  -> 2tdeacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+GRTT	grdp_c + ipdp_c  -> frdp_c + ppi_c 	AC5u0009GL000033 or AC5u0009GL002178	  0.00	1000.00	  0.00
+COPREC2MT	amet_c + copre2_c  -> ahcys_c + copre3_c + h_c 	AC5u0009GL001889	  0.00	1000.00	  0.00
+AGAT_LRE	agly3p_LRE_c + 0.0211 cpocdacp_c + 0.0258 hdeACP_c + 0.075 ocdacp_c + 0.3519 ocdcyaACP_c + 0.1591 octeACP_c + 0.2566 palmACP_c + 0.0687 tdeacp_c + 0.0418 ocdctrACP_c  -> ACP_c + pa_LRE_c 	AC5u0009GL000205	  0.00	1000.00	  0.00
+CLPNS_LRE	2 pg_LRE_c  <=> clpn_LRE_c + glyc_c 	AC5u0009GL000414 or AC5u0009GL000415 or AC5u0009GL002046	-1000.00	1000.00	  0.00
+NDPK9	atp_c + idp_c  -> adp_c + itp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+NDPK8	atp_c + dadp_c  -> adp_c + datp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+NDPK7	atp_c + dcdp_c  -> adp_c + dctp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+NDPK6	atp_c + dudp_c  -> adp_c + dutp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+NDPK5	atp_c + dgdp_c  -> adp_c + dgtp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+MTHFD	mlthf_c + nadp_c  <=> methf_c + nadph_c 	AC5u0009GL000036	-1000.00	1000.00	  0.00
+MTHFC	h2o_c + methf_c  <=> 10fthf_c + h_c 	AC5u0009GL000036	-1000.00	1000.00	  0.00
+GTHS	atp_c + glucys_c + gly_c  -> adp_c + gthrd_c + h_c + pi_c 	AC5u0009GL000401	  0.00	1000.00	  0.00
+NDPK1	atp_c + gdp_c  -> adp_c + gtp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+FA161ACPH	h2o_c + hdeACP_c  <=> ACP_c + h_c + hdcea_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+DUTPDP	dutp_c + h2o_c  -> dump_c + h_c + ppi_c 	AC5u0009GL000733	  0.00	1000.00	  0.00
+ADEADOCBLS	agdpcbi_c + prbade_c[]  -> gmp_c + h_c + adeadocblp_c[] 	AC5u0009GL001877	  0.00	1000.00	  0.00
+BTDD_RR	btd__RR_c + nad_c  <=> actn__R_c + h_c + nadh_c 	AC5u0009GL000322	-1000.00	1000.00	  0.00
+HBUHL1	3hbutACP_c  -> but2eACP_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+GLNabc	atp_c + gln__L_e + h2o_c  -> adp_c + gln__L_c + h_c + pi_c 	AC5u0009GL001235 or AC5u0009GL001236 or AC5u0009GL001667 or AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL002128 or AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL001849 or AC5u0009GL002128 or AC5u0009GL001234 or AC5u0009GL001235 or AC5u0009GL001236	  0.00	1000.00	  0.00
+HDDHL5	3hddacp_c  -> 2tddacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HEXTT	hexdp_c + ipdp_c  -> hepdp_c + ppi_c 	AC5u0009GL002178	  0.00	1000.00	  0.00
+HMGCOAS	coa_c + h_c + hmgcoa_c  <=> aacoa_c + accoa_c + h2o_c 	AC5u0009GL000209	-1000.00	1000.00	  0.00
+HMGCOAR	coa_c + mev__R_c + 2 nadp_c  <=> 2 h_c + hmgcoa_c + 2 nadph_c 	AC5u0009GL000599	-1000.00	1000.00	  0.00
+UDCPDPS	frdp_c + 8 ipdp_c  -> 8 ppi_c + udcpdp_c 	AC5u0009GL002178 or AC5u0009GL000197 or AC5u0009GL000033	  0.00	1000.00	  0.00
+MTAN	5mta_c + h2o_c  -> 5mtr_c + ade_c 	AC5u0009GL001346	  0.00	1000.00	  0.00
+PNS4	h2o_c + xtsn_c  -> rib__D_c + xan_c 	AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL002084	  0.00	1000.00	  0.00
+TYRt6	h_e + tyr__L_e  <=> h_c + tyr__L_c 	AC5u0009GL000940 or AC5u0009GL001485	-1000.00	1000.00	  0.00
+LDH_D	lac__D_c + nad_c  <=> h_c + nadh_c + pyr_c 	AC5u0009GL000202 or AC5u0009GL001632 or AC5u0009GL000420 or AC5u0009GL000955	-1000.00	1000.00	  0.00
+NADPH12	h_c + nadph_c + q8_c  -> nadp_c + q8h2_c 	AC5u0009GL001208	  0.00	1000.00	  0.00
+AP4AH	ap4a_c + h2o_c  -> 2 adp_c + 2 h_c 	AC5u0009GL001465	  0.00	1000.00	  0.00
+PGMT	g1p_c  <=> g6p_c 	AC5u0009GL000802	-1000.00	1000.00	  0.00
+RNTR1	atp_c + trdrd_c  -> datp_c + h2o_c + trdox_c 	AC5u0009GL001026 or AC5u0009GL001728 or AC5u0009GL001940	  0.00	1000.00	  0.00
+ARGORNt3	arg__L_e + orn__L_c  <=> arg__L_c + orn__L_e 	AC5u0009GL000124 or AC5u0009GL001437 or AC5u0009GL001438 or AC5u0009GL000125 or AC5u0009GL001158 or AC5u0009GL001484	-1000.00	1000.00	  0.00
+G6PDA	gam6p_c + h2o_c  -> f6p_c + nh4_c 	AC5u0009GL001275	  0.00	1000.00	  0.00
+ENO	2pg_c  <=> h2o_c + pep_c 	AC5u0009GL001872	-1000.00	1000.00	  0.00
+DURADy	56dura_c + nadp_c  <=> h_c + nadph_c + ura_c 	AC5u0009GL001033 or AC5u0009GL001034	-1000.00	1000.00	  0.00
+XPPT	prpp_c + xan_c  -> ppi_c + xmp_c 	AC5u0009GL000324	  0.00	1000.00	  0.00
+GNK	atp_c + glcn__D_c  -> 6pgc_c + adp_c + h_c 	AC5u0009GL001543 or AC5u0009GL001789 or AC5u0009GL001859	  0.00	1000.00	  0.00
+DPR	2dhp_c + h_c + nadph_c  -> nadp_c + pant__R_c 	AC5u0009GL000435 or AC5u0009GL000781	  0.00	1000.00	  0.00
+METAT	atp_c + h2o_c + met__L_c  -> amet_c + pi_c + ppi_c 	AC5u0009GL001046	  0.00	1000.00	  0.00
+GLUR	glu__D_c  <=> glu__L_c 	AC5u0009GL000643 or AC5u0009GL002153	-1000.00	1000.00	  0.00
+GAPD	g3p_c + nad_c + pi_c  <=> 13dpg_c + h_c + nadh_c 	AC5u0009GL001869	-1000.00	1000.00	  0.00
+GLNS	atp_c + glu__L_c + nh4_c  -> adp_c + gln__L_c + h_c + pi_c 	AC5u0009GL000057	  0.00	1000.00	  0.00
+RNTR4	trdrd_c + utp_c  -> dutp_c + h2o_c + trdox_c 	AC5u0009GL001026 or AC5u0009GL001728 or AC5u0009GL001940	  0.00	1000.00	  0.00
+GLYCDx	glyc_c + nad_c  -> dha_c + h_c + nadh_c 	AC5u0009GL001480	  0.00	1000.00	  0.00
+LPGS_LRE	lystrna_c + pg_LRE_c  -> lyspg_LRE_c + trnalys_c 	AC5u0009GL001244	  0.00	1000.00	  0.00
+GLCNt2	glcn__D_e + h_e  <=> glcn__D_c + h_c 	AC5u0009GL001364 or AC5u0009GL001541	-1000.00	1000.00	  0.00
+UDPDPS	decdp_c + ipdp_c  -> ppi_c + udcpdp_c 	AC5u0009GL000197	  0.00	1000.00	  0.00
+PMEVK	5pmev_c + atp_c  -> 5dpmev_c + adp_c 	AC5u0009GL001739	  0.00	1000.00	  0.00
+PYDXK	atp_c + pydx_c  -> adp_c + h_c + pydx5p_c 	AC5u0009GL000270 or AC5u0009GL000843 or AC5u0009GL001072	  0.00	1000.00	  0.00
+GLUN	gln__L_c + h2o_c  -> glu__L_c + nh4_c 	AC5u0009GL000367	  0.00	1000.00	  0.00
+NDPK4	atp_c + dtdp_c  -> adp_c + dttp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+PRASCS	5aizc_c + asp__L_c + atp_c  <=> 25aics_c + adp_c + h_c + pi_c 	AC5u0009GL000897	-1000.00	1000.00	  0.00
+COPREC6R2	copre6_c + h_c + nadph_c  -> codhpre6_c + nadp_c 	AC5u0009GL001892	  0.00	1000.00	  0.00
+PGMT_B	g6p_B_c  <=> g1p_B_c 	AC5u0009GL000407	-1000.00	1000.00	  0.00
+NDPK3	atp_c + cdp_c  -> adp_c + ctp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+MI1PP	h2o_c + mi1p__D_c  -> inost_c + pi_c 	AC5u0009GL001052 or AC5u0009GL001955 or AC5u0009GL001379	  0.00	1000.00	  0.00
+RBK	atp_c + rib__D_c  -> adp_c + h_c + r5p_c 	AC5u0009GL000982 or AC5u0009GL001057	  0.00	1000.00	  0.00
+PTAr	accoa_c + pi_c  <=> actp_c + coa_c 	AC5u0009GL000976	-1000.00	1000.00	  0.00
+NDPK2	atp_c + udp_c  -> adp_c + utp_c 	AC5u0009GL000603	  0.00	1000.00	  0.00
+ALKP	dhap_c + h2o_c  -> dha_c + pi_c 	AC5u0009GL000964 or AC5u0009GL001481 or AC5u0009GL002025	  0.00	1000.00	  0.00
+CYTDK2	cytd_c + gtp_c  -> cmp_c + gdp_c + h_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+CYTDK3	cytd_c + itp_c  -> cmp_c + h_c + idp_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+DGNSK	atp_c + dgsn_c  -> adp_c + dgmp_c + h_c 	AC5u0009GL001054 or AC5u0009GL001221	  0.00	1000.00	  0.00
+TYRTRS	atp_c + trnatyr_c + tyr__L_c  -> amp_c + ppi_c + tyrtrna_c 	AC5u0009GL000886	  0.00	1000.00	  0.00
+PGSA_LRE	cdpdag_LRE_c + glyc3p_c  <=> cmp_c + h_c + pgp_LRE_c 	AC5u0009GL000663 or AC5u0009GL002133	-1000.00	1000.00	  0.00
+DAPE	26dap_LL_c  <=> 26dap_M_c 	AC5u0009GL001354	-1000.00	1000.00	  0.00
+IPDDI	ipdp_c  <=> dmpp_c 	AC5u0009GL001740	-1000.00	1000.00	  0.00
+ACBIPGT	adocbip_c + gtp_c + h_c  -> agdpcbi_c + ppi_c 	AC5u0009GL001878	  0.00	1000.00	  0.00
+NTD11	h2o_c + imp_c  -> ins_c + pi_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+AIRC	air_c + co2_c  -> 5aizc_c + h_c 	AC5u0009GL000325 or AC5u0009GL000899 or AC5u0009GL000900	  0.00	1000.00	  0.00
+CBIA	2 atp_c + cobya_c + 2 gln__L_c + 2 h2o_c  -> 2 adp_c + co2dam_c + 2 glu__L_c + 2 h_c + 2 pi_c 	AC5u0009GL001901	  0.00	1000.00	  0.00
+PPK2r	atp_c + ppi_c  -> adp_c + pppi_c 	AC5u0009GL000770	  0.00	1000.00	  0.00
+COPREC3MT	amet_c + copre3_c  -> ahcys_c + copre4_c 	AC5u0009GL001893	  0.00	1000.00	  0.00
+GMPR	gmp_c + 2 h_c + nadph_c  -> imp_c + nadp_c + nh4_c 	AC5u0009GL000395	  0.00	1000.00	  0.00
+THZPSN	atp_c + cys__L_c + dxyl5p_c + tyr__L_c  -> 4hba_c + 4mpetz_c + ala__L_c + amp_c + co2_c + h2o_c + h_c + ppi_c 	AC5u0009GL001245	  0.00	1000.00	  0.00
+URIK1	atp_c + uri_c  -> adp_c + h_c + ump_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+UPP3S	hmbil_c  -> h2o_c + uppg3_c 	AC5u0009GL001875 or AC5u0009GL001891	  0.00	1000.00	  0.00
+LEUt6	h_e + leu__L_e  <=> h_c + leu__L_c 	AC5u0009GL001196 or AC5u0009GL001499 or AC5u0009GL001500 or AC5u0009GL002064	-1000.00	1000.00	  0.00
+TMDPP	2dr1p_c + thym_c  <=> pi_c + thymd_c 	AC5u0009GL001506	-1000.00	1000.00	  0.00
+PYNP2	pi_c + uri_c  <=> r1p_c + ura_c 	AC5u0009GL001506	-1000.00	1000.00	  0.00
+LEUt2	h_e + leu__L_e  -> h_c + leu__L_c 	AC5u0009GL001196 or AC5u0009GL002064	  0.00	1000.00	  0.00
+ABTA	4abut_c + akg_c  -> glu__L_c + sucsal_c 	AC5u0009GL000606	  0.00	1000.00	  0.00
+PNS2	gsn_c + h2o_c  -> gua_c + rib__D_c 	AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL002084	  0.00	1000.00	  0.00
+URAt2	h_e + ura_e  -> h_c + ura_c 	AC5u0009GL000111	  0.00	1000.00	  0.00
+ACTD	actn__R_c + nad_c  <=> diact_c + h_c + nadh_c 	AC5u0009GL000322	-1000.00	1000.00	  0.00
+NTD10	h2o_c + xmp_c  -> pi_c + xtsn_c 	AC5u0009GL001278	  0.00	1000.00	  0.00
+CYSTGL	cyst__L_c + h2o_c  -> 2obut_c + cys__L_c + nh4_c 	AC5u0009GL000726	  0.00	1000.00	  0.00
+PYRNS1	h2o_c + uri_c  -> rib__D_c + ura_c 	AC5u0009GL001662 or AC5u0009GL001778	  0.00	1000.00	  0.00
+URIDK2	atp_c + dump_c  -> adp_c + dudp_c 	AC5u0009GL000199 or AC5u0009GL001574	  0.00	1000.00	  0.00
+OMPDC	h_c + orot5p_c  -> co2_c + ump_c 	AC5u0009GL001494	  0.00	1000.00	  0.00
+PUNP3	gsn_c + pi_c  <=> gua_c + r1p_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+ILEt2	h_e + ile__L_e  -> h_c + ile__L_c 	AC5u0009GL001196 or AC5u0009GL002064	  0.00	1000.00	  0.00
+XANt2	h_e + xan_e  -> h_c + xan_c 	AC5u0009GL001486	  0.00	1000.00	  0.00
+ATPS3r	adp_c + 3 h_e + pi_c  <=> atp_c + h2o_c + 2 h_c 	AC5u0009GL000103 or AC5u0009GL000106 or AC5u0009GL000107 or AC5u0009GL000108 or AC5u0009GL000110 or AC5u0009GL000105 or AC5u0009GL000104	-1000.00	1000.00	  0.00
+ILEt6	h_e + ile__L_e  <=> h_c + ile__L_c 	AC5u0009GL001196 or AC5u0009GL001499 or AC5u0009GL001500 or AC5u0009GL002064	-1000.00	1000.00	  0.00
+HXPRT	hxan_c + prpp_c  -> imp_c + ppi_c 	AC5u0009GL000386 or AC5u0009GL001821	  0.00	1000.00	  0.00
+SPMDabc	atp_c + h2o_c + spmd_e  -> adp_c + h_c + pi_c + spmd_c 	AC5u0009GL002082 or AC5u0009GL002080 or AC5u0009GL002081 or AC5u0009GL000915 or AC5u0009GL002083	  0.00	1000.00	  0.00
+PNS3	h2o_c + ins_c  -> hxan_c + rib__D_c 	AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL002084	  0.00	1000.00	  0.00
+M1PD	mnl1p_c + nad_c  <=> f6p_c + h_c + nadh_c 	AC5u0009GL002062	-1000.00	1000.00	  0.00
+HACD1	aacoa_c + h_c + nadh_c  <=> 3hbycoa_c + nad_c 	AC5u0009GL001661	-1000.00	1000.00	  0.00
+SSALx	h2o_c + nad_c + sucsal_c  -> 2 h_c + nadh_c + succ_c 	AC5u0009GL001521	  0.00	1000.00	  0.00
+CBPS	2 atp_c + gln__L_c + h2o_c + hco3_c  -> 2 adp_c + cbp_c + glu__L_c + 2 h_c + pi_c 	AC5u0009GL001182 or AC5u0009GL001183 or AC5u0009GL001529 or AC5u0009GL001530	  0.00	1000.00	  0.00
+DRBK	atp_c + drib_c  -> 2dr5p_c + adp_c + h_c 	AC5u0009GL000982 or AC5u0009GL001057	  0.00	1000.00	  0.00
+ALCD19_D	glyald_c + h_c + nadph_c  <=> glyc_c + nadp_c 	AC5u0009GL000399	-1000.00	1000.00	  0.00
+UMPK	atp_c + ump_c  -> adp_c + udp_c 	AC5u0009GL001574	  0.00	1000.00	  0.00
+PYDAMK	atp_c + pydam_c  -> adp_c + h_c + pyam5p_c 	AC5u0009GL000270 or AC5u0009GL000843 or AC5u0009GL001072	  0.00	1000.00	  0.00
+ADK1	amp_c + atp_c  -> 2 adp_c 	AC5u0009GL000309	  0.00	1000.00	  0.00
+RNDR2	gdp_c + trdrd_c  -> dgdp_c + h2o_c + trdox_c 	AC5u0009GL000755 or AC5u0009GL000756	  0.00	1000.00	  0.00
+ALCD19_L	Lglyald_c + h_c + nadph_c  <=> glyc_c + nadp_c 	AC5u0009GL000399	-1000.00	1000.00	  0.00
+PUNP4	dgsn_c + pi_c  <=> 2dr1p_c + gua_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+PGI	g6p_c  <=> f6p_c 	AC5u0009GL000149	-1000.00	1000.00	  0.00
+UAGCVT	pep_c + uacgam_c  -> pi_c + uaccg_c 	AC5u0009GL000102 or AC5u0009GL000352	  0.00	1000.00	  0.00
+CSND	csn_c + h2o_c + h_c  -> nh4_c + ura_c 	AC5u0009GL000758 or AC5u0009GL000377	  0.00	1000.00	  0.00
+AMMQT8_2	2dmmq8_c + amet_c  -> ahcys_c + h_c + mqn8_c 	AC5u0009GL001463	  0.00	1000.00	  0.00
+RPE	ru5p__D_c  <=> xu5p__D_c 	AC5u0009GL000019	-1000.00	1000.00	  0.00
+HETZK	4mhetz_c + atp_c  -> 4mpetz_c + adp_c + h_c 	AC5u0009GL000269	  0.00	1000.00	  0.00
+MNabc	atp_c + h2o_c + mn2_e  -> adp_c + h_c + mn2_c + pi_c 	AC5u0009GL000586 and AC5u0009GL000588 and AC5u0009GL000587	  0.00	1000.00	  0.00
+NNATr	atp_c + h_c + nicrnt_c  <=> dnad_c + ppi_c 	AC5u0009GL000090	-1000.00	1000.00	  0.00
+MDH	mal__L_c + nad_c  <=> h_c + nadh_c + oaa_c 	AC5u0009GL001170	-1000.00	1000.00	  0.00
+G1PPDM	2 g1p_c  -> g16bp_c + glc__D_c 	AC5u0009GL000407	  0.00	1000.00	  0.00
+UAMAS	ala__L_c + atp_c + uamr_c  -> adp_c + h_c + pi_c + uama_c 	AC5u0009GL000826 or AC5u0009GL001089	  0.00	1000.00	  0.00
+RPI	r5p_c  <=> ru5p__D_c 	AC5u0009GL000731	-1000.00	1000.00	  0.00
+GLUCYSL	atp_c + cys__L_c + glu__L_c  -> adp_c + glucys_c + h_c + pi_c 	AC5u0009GL000401 or AC5u0009GL001171	  0.00	1000.00	  0.00
+DHDPS	aspsa_c + pyr_c  -> 23dhdp_c + 2 h2o_c + h_c 	AC5u0009GL001359	  0.00	1000.00	  0.00
+ARGDI	arg__L_c + h2o_c  -> citr__L_c + nh4_c 	AC5u0009GL000127	  0.00	1000.00	  0.00
+PGM	3pg_c  <=> 2pg_c 	AC5u0009GL000361 or AC5u0009GL000959 or AC5u0009GL001483 or AC5u0009GL001350 or AC5u0009GL000724 or AC5u0009GL000888 or AC5u0009GL001908	-1000.00	1000.00	  0.00
+HMBS	h2o_c + 4 ppbng_c  -> hmbil_c + 4 nh4_c 	AC5u0009GL001881	  0.00	1000.00	  0.00
+PGK	13dpg_c + adp_c  <=> 3pg_c + atp_c 	AC5u0009GL001870	-1000.00	1000.00	  0.00
+ASNS2	asp__L_c + atp_c + nh4_c  -> amp_c + asn__L_c + h_c + ppi_c 	AC5u0009GL000452	  0.00	1000.00	  0.00
+HHDHL7	3hpaacp_c  -> 2thdeacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+PTRCabc	atp_c + h2o_c + ptrc_e  -> adp_c + h_c + pi_c + ptrc_c 	AC5u0009GL002082 or AC5u0009GL002080 or AC5u0009GL002081 or AC5u0009GL000915 or AC5u0009GL002083	  0.00	1000.00	  0.00
+ALCD19	glyald_c + h_c + nadh_c  <=> glyc_c + nad_c 	AC5u0009GL000790	-1000.00	1000.00	  0.00
+GALK2	a_gal__D_c + atp_c  -> adp_c + gal1p_c + h_c 	AC5u0009GL002028	  0.00	1000.00	  0.00
+PGAMT	gam1p_c  <=> gam6p_c 	AC5u0009GL000987	-1000.00	1000.00	  0.00
+UAPGR	h_c + nadph_c + uaccg_c  -> nadp_c + uamr_c 	AC5u0009GL000981	  0.00	1000.00	  0.00
+THZPSN2	MCOSH_c + dxyl5p_c + gly_c + nadp_c  -> 4mpetz_c + MCOOH_c + co2_c + 2 h2o_c + 2 h_c + nadph_c 	AC5u0009GL001245	  0.00	1000.00	  0.00
+SERTRS	atp_c + ser__L_c + trnaser_c  -> amp_c + ppi_c + sertrna_c 	AC5u0009GL001193 or AC5u0009GL002113	  0.00	1000.00	  0.00
+DHFS	atp_c + dhpt_c + glu__L_c  -> adp_c + dhf_c + h_c + pi_c 	AC5u0009GL000849 or AC5u0009GL001065 or AC5u0009GL001066 or AC5u0009GL000674 or AC5u0009GL002122	  0.00	1000.00	  0.00
+Kabc	atp_c + h2o_c + k_e  -> adp_c + h_c + k_c + pi_c 	AC5u0009GL001305 or AC5u0009GL001304	  0.00	1000.00	  0.00
+G3PCT	ctp_c + glyc3p_c + h_c  -> cdpglyc_c + ppi_c 	AC5u0009GL000196	  0.00	1000.00	  0.00
+PNS1	adn_c + h2o_c  -> ade_c + rib__D_c 	AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL002084	  0.00	1000.00	  0.00
+UGMDDS2	alalac_c + atp_c + ugmd_c  -> adp_c + h_c + pi_c + ugmdalac_c 	AC5u0009GL000365	  0.00	1000.00	  0.00
+FTHFCL	5fthf_c + atp_c  -> adp_c + methf_c + pi_c 	AC5u0009GL000018 or AC5u0009GL000065	  0.00	1000.00	  0.00
+HISabc	atp_c + h2o_c + his__L_e  -> adp_c + h_c + his__L_c + pi_c 	AC5u0009GL000164 or AC5u0009GL000669 or AC5u0009GL002127 or AC5u0009GL000165 or AC5u0009GL000613 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL002128 or AC5u0009GL000667 or AC5u0009GL000800 or AC5u0009GL002129	  0.00	1000.00	  0.00
+DURIPP	duri_c + pi_c  <=> 2dr1p_c + ura_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+MEVK	atp_c + mev__R_c  -> 5pmev_c + adp_c + h_c 	AC5u0009GL001737	  0.00	1000.00	  0.00
+ACACT1r	2 accoa_c  <=> aacoa_c + coa_c 	AC5u0009GL000410	-1000.00	1000.00	  0.00
+HSAT	accoa_c + hom__L_c  <=> achms_c + coa_c 	AC5u0009GL002042	-1000.00	1000.00	  0.00
+ACKr	ac_c + atp_c  <=> actp_c + adp_c 	AC5u0009GL000624 or AC5u0009GL001911 or AC5u0009GL002172	-1000.00	1000.00	  0.00
+CYSTRS	atp_c + cys__L_c + trnacys_c  -> amp_c + cystrna_c + ppi_c 	AC5u0009GL000736	  0.00	1000.00	  0.00
+GMPS2	atp_c + gln__L_c + h2o_c + xmp_c  -> amp_c + glu__L_c + gmp_c + 2 h_c + ppi_c 	AC5u0009GL000967 or AC5u0009GL000459	  0.00	1000.00	  0.00
+MNt6	h_e + mn2_e  <=> h_c + mn2_c 	AC5u0009GL001302 or AC5u0009GL001853	-1000.00	1000.00	  0.00
+GLYBabc	atp_c + glyb_e + h2o_c  -> adp_c + glyb_c + h_c + pi_c 	AC5u0009GL000914 or AC5u0009GL000916 or AC5u0009GL000915 or AC5u0009GL002083	  0.00	1000.00	  0.00
+ADPT	ade_c + prpp_c  -> amp_c + ppi_c 	AC5u0009GL000386 or AC5u0009GL001821	  0.00	1000.00	  0.00
+FBA	fdp_c  <=> dhap_c + g3p_c 	AC5u0009GL000360	-1000.00	1000.00	  0.00
+CYTB_B2	2 h_c + mql7_c + 0.5 o2_c  -> h2o_c + 2 h_e + mqn7_c 	AC5u0009GL000677 or AC5u0009GL000678 or AC5u0009GL000679 or AC5u0009GL000680 or AC5u0009GL000676	  0.00	1000.00	  0.00
+NAt7	h_e + na1_c  <=> h_c + na1_e 	AC5u0009GL001214 or AC5u0009GL000605	-1000.00	1000.00	  0.00
+URIK3	itp_c + uri_c  -> h_c + idp_c + ump_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+UAGDP	acgam1p_c + h_c + utp_c  -> ppi_c + uacgam_c 	AC5u0009GL000584	  0.00	1000.00	  0.00
+DMATT	dmpp_c + ipdp_c  -> grdp_c + ppi_c 	AC5u0009GL000033 or AC5u0009GL002178	  0.00	1000.00	  0.00
+PMPK	4ampm_c + atp_c  -> 2mahmp_c + adp_c 	AC5u0009GL000270 or AC5u0009GL000843 or AC5u0009GL001072	  0.00	1000.00	  0.00
+G1SAT	glu1sa_c  <=> 5aop_c 	AC5u0009GL001879	-1000.00	1000.00	  0.00
+R05220	atp_c + co1dam_c + h2o_c  -> adcobdam_c + pi_c + ppi_c 	AC5u0009GL001915 or AC5u0009GL001903	  0.00	1000.00	  0.00
+DURIK1	atp_c + duri_c  -> adp_c + dump_c + h_c 	AC5u0009GL000120	  0.00	1000.00	  0.00
+R05225	adcobdam_c + 4 atp_c + 4 gln__L_c + 4 h2o_c  -> adcobhex_c + 4 adp_c + 4 glu__L_c + 4 h_c + 4 pi_c 	AC5u0009GL001884	  0.00	1000.00	  0.00
+GGGABAH	gg4abut_c + h2o_c  -> 4abut_c + glu__L_c 	AC5u0009GL000400	  0.00	1000.00	  0.00
+DINSK	atp_c + din_c  -> adp_c + dimp_c 	AC5u0009GL001054 or AC5u0009GL001221	  0.00	1000.00	  0.00
+COPRECI	copre8_c  -> cobya_c 	AC5u0009GL001899	  0.00	1000.00	  0.00
+URIK2	gtp_c + uri_c  -> gdp_c + h_c + ump_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+PMANM	man1p_c  <=> man6p_c 	AC5u0009GL000802	-1000.00	1000.00	  0.00
+DADNK	atp_c + dad_2_c  -> adp_c + damp_c + h_c 	AC5u0009GL001054 or AC5u0009GL001221	  0.00	1000.00	  0.00
+SELCYSLY	dtt_c + scys__L_c  -> seln_c + ala__L_c + dttOX_c + h_c 	AC5u0009GL000683 or AC5u0009GL001347 or AC5u0009GL001760	  0.00	1000.00	  0.00
+GALT	gal1p_c + h_c + utp_c  <=> ppi_c + udpgal_c 	AC5u0009GL002027	-1000.00	1000.00	  0.00
+ASPTRS	asp__L_c + atp_c + trnaasp_c  -> amp_c + asptrna_c + ppi_c 	AC5u0009GL000166	  0.00	1000.00	  0.00
+CHLabc	atp_c + chol_e + h2o_c  -> adp_c + chol_c + h_c + pi_c 	AC5u0009GL000914 or AC5u0009GL000916 or AC5u0009GL000915 or AC5u0009GL002083	  0.00	1000.00	  0.00
+NADS1	atp_c + dnad_c + nh4_c  -> amp_c + h_c + nad_c + ppi_c 	AC5u0009GL000719	  0.00	1000.00	  0.00
+UDPGALM	udpgal_c  -> udpgalfur_c 	AC5u0009GL001427 or AC5u0009GL001456	  0.00	1000.00	  0.00
+LDH_L	lac__L_c + nad_c  <=> h_c + nadh_c + pyr_c 	AC5u0009GL000175 or AC5u0009GL000844 or AC5u0009GL001071 or AC5u0009GL001116 or AC5u0009GL001747 or AC5u0009GL000468 or AC5u0009GL000611 or AC5u0009GL000177 or ( AC5u0009GL000795 and AC5u0009GL000796 and AC5u0009GL000797 )	-1000.00	1000.00	  0.00
+DRPA	2dr5p_c  -> acald_c + g3p_c 	AC5u0009GL000557 or AC5u0009GL001508	  0.00	1000.00	  0.00
+SUCBZL	atp_c + coa_c + sucbz_c  -> amp_c + ppi_c + sbzcoa_c 	AC5u0009GL001766	  0.00	1000.00	  0.00
+MGt5	mg2_c  <=> mg2_e 	AC5u0009GL001488	-1000.00	1000.00	  0.00
+LYSTRS	atp_c + lys__L_c + trnalys_c  -> amp_c + lystrna_c + ppi_c 	AC5u0009GL000390	  0.00	1000.00	  0.00
+TRPTRS	atp_c + trnatrp_c + trp__L_c  -> amp_c + ppi_c + trptrna_c 	AC5u0009GL000601	  0.00	1000.00	  0.00
+P5CRr	1pyr5c_c + 2 h_c + nadph_c  <=> nadp_c + pro__L_c 	AC5u0009GL000776 or AC5u0009GL001520	-1000.00	1000.00	  0.00
+ALCD23x	2mppal_c + h_c + nadh_c  <=> ibutoh_c + nad_c 	AC5u0009GL001912	-1000.00	1000.00	  0.00
+APRAUR	5apru_c + h_c + nadph_c  -> 5aprbu_c + nadp_c 	AC5u0009GL001777	  0.00	1000.00	  0.00
+FRTT	frdp_c + ipdp_c  -> ggdp_c + ppi_c 	AC5u0009GL000033 or AC5u0009GL002178	  0.00	1000.00	  0.00
+SERt3	h_e + ser__L_c  -> h_c + ser__L_e 	AC5u0009GL001226 or AC5u0009GL001105 or AC5u0009GL001225	  0.00	1000.00	  0.00
+ASPCT	asp__L_c + cbp_c  -> cbasp_c + h_c + pi_c 	AC5u0009GL001497	  0.00	1000.00	  0.00
+MNTD	mnl_c + nad_c  <=> fru_c + h_c + nadh_c 	AC5u0009GL001852	-1000.00	1000.00	  0.00
+METDabc	atp_c + h2o_c + met__D_e  -> adp_c + h_c + met__D_c + pi_c 	AC5u0009GL000612 or AC5u0009GL000613 or AC5u0009GL000668 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001848 or AC5u0009GL002128 or AC5u0009GL000614	  0.00	1000.00	  0.00
+ARGt2	arg__L_e + h_e  -> arg__L_c + h_c 	AC5u0009GL000124	  0.00	1000.00	  0.00
+DB4PS	ru5p__D_c  -> db4p_c + for_c + h_c 	AC5u0009GL000911 or AC5u0009GL001775	  0.00	1000.00	  0.00
+MALP	malt_c + pi_c  <=> g1p_B_c + glc__D_c 	AC5u0009GL000408 or AC5u0009GL001824	-1000.00	1000.00	  0.00
+ADPRDP	adprib_c + h2o_c  -> amp_c + 2 h_c + r5p_c 	AC5u0009GL001344	  0.00	1000.00	  0.00
+ARABRr	arab__L_c + h_c + nadph_c  <=> abt__L_c + nadp_c 	AC5u0009GL000399	-1000.00	1000.00	  0.00
+ASAD	aspsa_c + nadp_c + pi_c  <=> 4pasp_c + h_c + nadph_c 	AC5u0009GL001362	-1000.00	1000.00	  0.00
+NADH4	h_c + mqn7_c + nadh_c  -> mql7_c + nad_c 	AC5u0009GL000675	  0.00	1000.00	  0.00
+IMPC	h2o_c + imp_c  <=> fprica_c 	AC5u0009GL000890	-1000.00	1000.00	  0.00
+RAFGH	h2o_c + raffin_c  -> gal_c + sucr_c 	AC5u0009GL000933 or AC5u0009GL001744	  0.00	1000.00	  0.00
+PTPAT	atp_c + h_c + pan4p_c  <=> dpcoa_c + ppi_c 	AC5u0009GL001384	-1000.00	1000.00	  0.00
+DHORTS	dhor__S_c + h2o_c  <=> cbasp_c + h_c 	AC5u0009GL001496	-1000.00	1000.00	  0.00
+PPM2	2dr1p_c  <=> 2dr5p_c 	AC5u0009GL001507 or AC5u0009GL000923	-1000.00	1000.00	  0.00
+YUMPS	r5p_c + ura_c  <=> h2o_c + psd5p_c 	AC5u0009GL000319 or AC5u0009GL001243 or AC5u0009GL001809 or AC5u0009GL000186 or AC5u0009GL001528 or AC5u0009GL001489	-1000.00	1000.00	  0.00
+DADA	dad_2_c + h2o_c + h_c  -> din_c + nh4_c 	AC5u0009GL000758	  0.00	1000.00	  0.00
+G1PACT	accoa_c + gam1p_c  -> acgam1p_c + coa_c + h_c 	AC5u0009GL000584	  0.00	1000.00	  0.00
+R05218	2 co2dam_c + nadh_c  -> 2 co1dam_c + h_c + nad_c 	AC5u0009GL001904	  0.00	1000.00	  0.00
+THRTRS	atp_c + thr__L_c + trnathr_c  -> amp_c + ppi_c + thrtrna_c 	AC5u0009GL000429	  0.00	1000.00	  0.00
+MCMAT7	h_c + malACP_c + tdeacp_c  -> 3oxhdacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+CHLt6	chol_e + h_e  <=> chol_c + h_c 	AC5u0009GL000918	-1000.00	1000.00	  0.00
+MCMAT5	decacp_c + h_c + malACP_c  -> 3oxddacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+MCMAT4	h_c + malACP_c + ocACP_c  -> 3oxdeacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HEMAT2	2theacp_c + h_c + nadh_c  -> hexACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+MCMAT2	butACP_c + h_c + malACP_c  -> 3oxhacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+PUNP2	dad_2_c + pi_c  <=> 2dr1p_c + ade_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+GLUPRT	gln__L_c + h2o_c + prpp_c  -> glu__L_c + ppi_c + pram_c 	AC5u0009GL000893	  0.00	1000.00	  0.00
+ALDD8x	glyald_c + h2o_c + nad_c  -> glyc__R_c + 2 h_c + nadh_c 	AC5u0009GL000754	  0.00	1000.00	  0.00
+aratyr2	3mop_c + tyr__L_c  <=> 34hpp_c + ile__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+OCMAT3	2toceacp_c + h_c + nadh_c  -> nad_c + ocACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+MALT	h2o_c + malt_c  -> 2 glc__D_c 	AC5u0009GL000274	  0.00	1000.00	  0.00
+GLYCDH	glyc_c  <=> 3hppnl_c + h2o_c 	AC5u0009GL001923 or AC5u0009GL001922 or AC5u0009GL001926 or AC5u0009GL001924 or AC5u0009GL001925	-1000.00	1000.00	  0.00
+MALLAC	h_c + mal__L_c  -> co2_c + lac__L_c 	AC5u0009GL001119 or AC5u0009GL001113	  0.00	1000.00	  0.00
+METTRS	atp_c + met__L_c + trnamet_c  -> amp_c + mettrna_c + ppi_c 	AC5u0009GL000594	  0.00	1000.00	  0.00
+CBIAT	atp_c + cbi_c + h2o_c  <=> adocbi_c + pi_c + ppi_c 	AC5u0009GL001915 or AC5u0009GL001903	-1000.00	1000.00	  0.00
+AMAA	acmama_c + h2o_c  -> acmam_c + ala__L_c 	AC5u0009GL001126 or AC5u0009GL002096 or AC5u0009GL001418	  0.00	1000.00	  0.00
+CDPMEK	4c2me_c + atp_c  -> 2p4c2me_c + adp_c + h_c 	AC5u0009GL000589	  0.00	1000.00	  0.00
+CBMKr	atp_c + co2_c + nh4_c  -> adp_c + cbp_c + 2 h_c 	AC5u0009GL000143	  0.00	1000.00	  0.00
+COPRECT	amet_c + copre5_c + h2o_c  -> acald_c + ahcys_c + copre6_c + h_c 	AC5u0009GL001894 or AC5u0009GL001898	  0.00	1000.00	  0.00
+MCOATA	ACP_c + malcoa_c  <=> coa_c + malACP_c 	AC5u0009GL000229	-1000.00	1000.00	  0.00
+ARGSS	asp__L_c + atp_c + citr__L_c  -> amp_c + argsuc_c + h_c + ppi_c 	AC5u0009GL001604	  0.00	1000.00	  0.00
+UDCPK	atp_c + udcp_c  -> adp_c + h_c + udcpp_c 	AC5u0009GL001598	  0.00	1000.00	  0.00
+RNTR3	ctp_c + trdrd_c  -> dctp_c + h2o_c + trdox_c 	AC5u0009GL001026 or AC5u0009GL001728 or AC5u0009GL001940	  0.00	1000.00	  0.00
+NPHS	sbzcoa_c  -> coa_c + dhna_c 	AC5u0009GL001767	  0.00	1000.00	  0.00
+GTPCII	gtp_c + 3 h2o_c  -> 25dhpp_c + for_c + 2 h_c + ppi_c 	AC5u0009GL000911 or AC5u0009GL001775	  0.00	1000.00	  0.00
+aratyr4	indpyr_c + tyr__L_c  <=> 34hpp_c + trp__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+ARGSL	argsuc_c  <=> arg__L_c + fum_c 	AC5u0009GL001603	-1000.00	1000.00	  0.00
+PKL	pi_c + xu5p__D_c  <=> actp_c + g3p_c + h2o_c 	AC5u0009GL001624	-1000.00	1000.00	  0.00
+PUNP6	din_c + pi_c  <=> 2dr1p_c + hxan_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+DDMAT5	2tddacp_c + h_c + nadh_c  -> ddeacp_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+AHMMPS	air_c + h2o_c  -> 4ahmmp_c + gcald_c + 0.5 o2_c + pi_c 	AC5u0009GL001190	  0.00	1000.00	  0.00
+G1PTMT	dttp_c + g1p_c + h_c  -> dtdpglu_c + ppi_c 	AC5u0009GL001424 or AC5u0009GL001417	  0.00	1000.00	  0.00
+araphe2	3mop_c + phe__L_c  <=> ile__L_c + phpyr_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+TMDK2	gtp_c + thymd_c  -> dtmp_c + gdp_c + h_c 	AC5u0009GL000120	  0.00	1000.00	  0.00
+AHCYSNS	ahcys_c + h2o_c  -> ade_c + rhcys_c 	AC5u0009GL001346	  0.00	1000.00	  0.00
+GPDDA5	g3pi_c + h2o_c  -> glyc3p_c + h_c + inost_c 	AC5u0009GL000398	  0.00	1000.00	  0.00
+GPDDA4	g3pg_c + h2o_c  -> glyc3p_c + glyc_c + h_c 	AC5u0009GL000398	  0.00	1000.00	  0.00
+GPDDA3	g3ps_c + h2o_c  -> glyc3p_c + h_c + ser__L_c 	AC5u0009GL000398	  0.00	1000.00	  0.00
+GPDDA2	g3pe_c + h2o_c  -> etha_c + glyc3p_c + h_c 	AC5u0009GL000398	  0.00	1000.00	  0.00
+GPDDA1	g3pc_c + h2o_c  -> chol_c + glyc3p_c + h_c 	AC5u0009GL000398	  0.00	1000.00	  0.00
+CTPS1__1	atp_c + nh4_c + utp_c  -> adp_c + ctp_c + 2 h_c + pi_c 	AC5u0009GL000351 or AC5u0009GL000571	  0.00	1000.00	  0.00
+HBUR1	actACP_c + h_c + nadph_c  -> 3hbutACP_c + nadp_c 	AC5u0009GL000944 or AC5u0009GL000228	  0.00	1000.00	  0.00
+FUCt	fuc__L_e + h_e  <=> fuc__L_c + h_c 	AC5u0009GL000984	-1000.00	1000.00	  0.00
+HHYHL2	3hhacp_c  -> 2theacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+UAAGDS	26dap_M_c + atp_c + uamag_c  -> adp_c + h_c + pi_c + ugmd_c 	AC5u0009GL000121 or AC5u0009GL000574	  0.00	1000.00	  0.00
+HTDHL6	3htdacp_c  -> 2ttdeacp_c + h2o_c 	AC5u0009GL001030 or AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HISTRS	atp_c + his__L_c + trnahis_c  -> amp_c + histrna_c + ppi_c 	AC5u0009GL001710	  0.00	1000.00	  0.00
+ASNS1	asp__L_c + atp_c + gln__L_c + h2o_c  -> amp_c + asn__L_c + glu__L_c + h_c + ppi_c 	AC5u0009GL000573	  0.00	1000.00	  0.00
+ADA	adn_c + h2o_c + h_c  -> ins_c + nh4_c 	AC5u0009GL000758	  0.00	1000.00	  0.00
+LCTSt6	h_e + lcts_e  <=> h_c + lcts_c 	AC5u0009GL002019	-1000.00	1000.00	  0.00
+ORPT	orot5p_c + ppi_c  <=> orot_c + prpp_c 	AC5u0009GL001493	-1000.00	1000.00	  0.00
+ADPDS	n6all26d + h2o_c + h_c  -> 26dap_LL_c + ac_c 	AC5u0009GL001358	  0.00	1000.00	  0.00
+FMETDF	fmet_c + h2o_c  -> for_c + met__L_c 	AC5u0009GL000080 or AC5u0009GL001373	  0.00	1000.00	  0.00
+Cut1	atp_c + cu2_c + h2o_c  -> adp_c + cu2_e + h_c + pi_c 	AC5u0009GL000138	  0.00	1000.00	  0.00
+UPPRT	prpp_c + ura_c  -> ppi_c + ump_c 	AC5u0009GL000115	  0.00	1000.00	  0.00
+CYSDabc	atp_c + cys__D_e + h2o_c  -> adp_c + cys__D_c + h_c + pi_c 	AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL002128 or AC5u0009GL000729 or AC5u0009GL000727	  0.00	1000.00	  0.00
+PYK	adp_c + h_c + pep_c  -> atp_c + pyr_c 	AC5u0009GL001585 or AC5u0009GL000357	  0.00	1000.00	  0.00
+THDPS	h2o_c + succoa_c + thdp_c  -> coa_c + sl2a6o_c 	AC5u0009GL001357	  0.00	1000.00	  0.00
+PDH	coa_c + nad_c + pyr_c  -> accoa_c + co2_c + nadh_c 	AC5u0009GL001377 and AC5u0009GL001374 and AC5u0009GL001375 and AC5u0009GL001376	  0.00	1000.00	  0.00
+PPA	h2o_c + ppi_c  -> h_c + 2 pi_c 	AC5u0009GL001551	  0.00	1000.00	  0.00
+DAGGT_LRE	dag_LRE_c + 2 udpg_c  -> dgdag_LRE_c + 2 h_c + 2 udp_c 	AC5u0009GL001145 or AC5u0009GL001144	  0.00	1000.00	  0.00
+COPREC4MT	amet_c + copre4_c  -> ahcys_c + copre5_c + h_c 	AC5u0009GL001895	  0.00	1000.00	  0.00
+2HXICDH	4mop_c + h_c + nadh_c  <=> 2hxic__L_c + nad_c 	AC5u0009GL000468 or AC5u0009GL000611 or AC5u0009GL001170	-1000.00	1000.00	  0.00
+ACALD	acald_c + coa_c + nad_c  <=> accoa_c + h_c + nadh_c 	AC5u0009GL000754	-1000.00	1000.00	  0.00
+RBFSa	4r5au_c + db4p_c  -> dmlz_c + 2 h2o_c + pi_c 	AC5u0009GL001776 or AC5u0009GL001774	  0.00	1000.00	  0.00
+EPPP	h2o_c + pppi_c  -> h_c + pi_c + ppi_c 	AC5u0009GL000600 or AC5u0009GL000769 or AC5u0009GL000771	  0.00	1000.00	  0.00
+ASPR	asp__D_c  <=> asp__L_c 	AC5u0009GL000716	-1000.00	1000.00	  0.00
+FA141ACPH	h2o_c + tdeACP_c  <=> ACP_c + h_c + ttdcea_c 	AC5u0009GL000768	-1000.00	1000.00	  0.00
+ADOCBIK	adocbi_c + atp_c  -> adocbip_c + adp_c + h_c 	AC5u0009GL001878	  0.00	1000.00	  0.00
+FUM	fum_c + h2o_c  <=> mal__L_c 	AC5u0009GL001118	-1000.00	1000.00	  0.00
+GARFT	10fthf_c + gar_c  <=> fgam_c + h_c + thf_c 	AC5u0009GL000891	-1000.00	1000.00	  0.00
+HPPK	2ahhmp_c + atp_c  -> 2ahhmd_c + amp_c + h_c 	AC5u0009GL001063	  0.00	1000.00	  0.00
+PHETRS	atp_c + phe__L_c + trnaphe_c  -> amp_c + phetrna_c + ppi_c 	AC5u0009GL000073 or AC5u0009GL000827 or AC5u0009GL001088 or AC5u0009GL000074	  0.00	1000.00	  0.00
+DCYTD	dcyt_c + h2o_c + h_c  -> duri_c + nh4_c 	AC5u0009GL001387	  0.00	1000.00	  0.00
+GTPCI	gtp_c + h2o_c  -> ahdt_c + for_c + h_c 	AC5u0009GL001064	  0.00	1000.00	  0.00
+ASPK	asp__L_c + atp_c  -> 4pasp_c + adp_c 	AC5u0009GL001355	  0.00	1000.00	  0.00
+GHMT2r	ser__L_c + thf_c  <=> gly_c + h2o_c + mlthf_c 	AC5u0009GL000116	-1000.00	1000.00	  0.00
+CPSS_LRE	4 h2o_c + 4 udpg_c  <=> CPS_LRE_c + 5 h_c + 3 udp_c + ump_c 	AC5u0009GL001937 or AC5u0009GL001426 or AC5u0009GL001454 or AC5u0009GL001791 or AC5u0009GL001282 or AC5u0009GL001425 or AC5u0009GL001152	-1000.00	1000.00	  0.00
+RNDR1	adp_c + trdrd_c  -> dadp_c + h2o_c + trdox_c 	AC5u0009GL000755 or AC5u0009GL000756 or AC5u0009GL000645 or AC5u0009GL002151 or AC5u0009GL000828 or AC5u0009GL001087 or AC5u0009GL001491	  0.00	1000.00	  0.00
+SUCtpp	sucr_e  <=> sucr_c 	AC5u0009GL001435	-1000.00	1000.00	  0.00
+SCRP	pi_c + sucr_c  -> fru_c + g1p_c 	AC5u0009GL001434	  0.00	1000.00	  0.00
+GLUK	atp_c + glc__D_c  -> adp_c + g6p_c + h_c 	AC5u0009GL000061	  0.00	1000.00	  0.00
+GLCt	glc__D_e + h_e  -> glc__D_c + h_c 	AC5u0009GL000984 or AC5u0009GL000151 or AC5u0009GL001518	  0.00	1000.00	  0.00
+PPCK	atp_c + oaa_c  -> adp_c + co2_c + pep_c 	AC5u0009GL001030	  0.00	1000.00	  0.00
+ALR2	h_c + nadph_c + mthgxl_c  -> nadp_c + acetol_c 	AC5u0009GL001480	  0.00	1000.00	  0.00
+ALR4x	h_c + nadh_c + acetol_c  -> nad_c + 12ppd__R_c 	AC5u0009GL001480	  0.00	1000.00	  0.00
+PPDD	12ppd__R_c  -> h2o_c + ppal_c 	AC5u0009GL001923 and AC5u0009GL001924 and AC5u0009GL001925	  0.00	1000.00	  0.00
+ALCD3	nad_c + ppoh_c  <=> h_c + nadh_c + ppal_c 	AC5u0009GL001517 or AC5u0009GL001912	-1000.00	1000.00	  0.00
+PDUP	coa_c + nad_c + ppal_c  <=> h_c + nadh_c + ppcoa_c 	AC5u0009GL001913	-1000.00	1000.00	  0.00
+PDUL	pi_c + ppcoa_c  <=> coa_c + ppap_c 	AC5u0009GL001918	-1000.00	1000.00	  0.00
+PDUW	adp_c + ppap_c  <=> atp_c + ppa_c 	AC5u0009GL000624 or AC5u0009GL001911 or AC5u0009GL002172	-1000.00	1000.00	  0.00
+PDUP2	3hppnl_c + coa_c + nad_c  -> h_c + nadh_c + 3hpcoa_c[] 	AC5u0009GL000754 or AC5u0009GL001913	  0.00	1000.00	  0.00
+PDUL2	pi_c + 3hpcoa_c[]  -> coa_c + 3hppap_c[] 	AC5u0009GL001918	  0.00	1000.00	  0.00
+PDUW2	adp_c + 3hppap_c[]  -> atp_c + 3hpp_c 	AC5u0009GL000624 or AC5u0009GL001911 or AC5u0009GL002172	  0.00	1000.00	  0.00
+PFK	atp_c + f6p_c  -> adp_c + fdp_c + h_c 	AC5u0009GL000982 or AC5u0009GL001057	  0.00	1000.00	  0.00
+ADCPS1	appl_c + adcobhex_c + atp_c  <=> adocbi_c + adp_c + h_c + pi_c 	AC5u0009GL001900	-1000.00	1000.00	  0.00
+APPLDHr	h_c + nadh_c + aact_c  <=> appl_c + nad_c 	AC5u0009GL001480	-1000.00	1000.00	  0.00
+FMNRx	fmn_c + h_c + nadh_c  <=> nad_c + fmnh2_c 	AC5u0009GL001904	-1000.00	1000.00	  0.00
+SULABC	atp_c + h2o_c + so4_e  -> adp_c + h_c + pi_c + so4_c 	AC5u0009GL000834 or AC5u0009GL001081	  0.00	1000.00	  0.00
+SULR	5 h_c + 3 nadph_c + so3_c  -> 3 h2o_c + h2s_c + 3 nadp_c 	AC5u0009GL000884	  0.00	1000.00	  0.00
+ORNTAC	glu__L_c + acorn_c  <=> orn__L_c + acglu_c 	AC5u0009GL000606 or AC5u0009GL001879	-1000.00	1000.00	  0.00
+ACOTA	akg_c + acorn_c  <=> glu__L_c + acg5sa_c 	AC5u0009GL000615 or AC5u0009GL000799	-1000.00	1000.00	  0.00
+ORNTA	akg_c + orn__L_c  <=> glu5sa_c + glu__L_c 	AC5u0009GL000606	-1000.00	1000.00	  0.00
+CYSTL2	h2o_c + hcys__L_c  -> 2obut_c + h2s_c + nh4_c 	AC5u0009GL000726	  0.00	1000.00	  0.00
+CYSTS	hcys__L_c + ser__L_c  -> cyst__L_c + h2o_c 	AC5u0009GL001444 or AC5u0009GL002043	  0.00	1000.00	  0.00
+RIBabc	atp_c + h2o_c + rib__D_e  -> adp_c + h_c + pi_c + rib__D_c 	AC5u0009GL001971	  0.00	1000.00	  0.00
+GALt	h_e + gal_e  <=> gal_c + h_c 	AC5u0009GL002019	-1000.00	1000.00	  0.00
+MALTt	h_e + malt_e  <=> h_c + malt_c 	AC5u0009GL000409 or AC5u0009GL001181 or AC5u0009GL001184 or AC5u0009GL002112	-1000.00	1000.00	  0.00
+SUCH	h2o_c + sucr_c  -> fru_c + glc__D_c 	AC5u0009GL000274	  0.00	1000.00	  0.00
+TREt	h_e + tre_e  <=> h_c + tre_c 	AC5u0009GL000409 or AC5u0009GL001181 or AC5u0009GL001184 or AC5u0009GL002112	-1000.00	1000.00	  0.00
+TREP	pi_c + tre_c  <=> g1p_B_c + glc__D_c 	AC5u0009GL000408	-1000.00	1000.00	  0.00
+PAP_LRE	h2o_c + pa_LRE_c  -> dag_LRE_c + pi_c 	AC5u0009GL001224 or AC5u0009GL000931	  0.00	1000.00	  0.00
+AACPS183	ACP_c + atp_c + ocdctr_c  -> amp_c + ppi_c + ocdctrACP_c 		  0.00	1000.00	  0.00
+ACGK	atp_c + acglu_c  -> adp_c + acg5p_c 		  0.00	1000.00	  0.00
+ACTPASE	actp_c + h2o_c  -> ac_c + h_c + pi_c 	AC5u0009GL000078	  0.00	1000.00	  0.00
+ACt6	h_e + ac_e  <=> ac_c + h_c 		-1000.00	1000.00	  0.00
+ADEt2	h_e + ade_e  <=> ade_c + h_c 		-1000.00	1000.00	  0.00
+AGPR	nadp_c + pi_c + acg5sa_c  <=> h_c + nadph_c + acg5p_c 		-1000.00	1000.00	  0.00
+ALATA_Lr	ala__L_c + pydx_c  <=> pydam_c + pyr_c 		-1000.00	1000.00	  0.00
+ALA_Lt6	h_e + ala__L_e  <=> ala__L_c + h_c 	or AC5u0009GL001042 or AC5u0009GL001664	-1000.00	1000.00	  0.00
+AOBUTDs	h_c + 2aobut_c  -> co2_c + aact_c 		  0.00	1000.00	  0.00
+ARAI	arab__L_c  <=> rbl__L_c 		-1000.00	1000.00	  0.00
+ARBt2	h_e + arab__L_e  <=> arab__L_c + h_c 		-1000.00	1000.00	  0.00
+ASNt6	h_e + asn__L_e  <=> asn__L_c + h_c 		-1000.00	1000.00	  0.00
+ASPt6	h_e + asp__L_e  <=> asp__L_c + h_c 		-1000.00	1000.00	  0.00
+ATPM	atp_c + h2o_c  -> adp_c + h_c + pi_c 	AC5u0009GL001532	  0.37	  0.37	  0.00
+BTDt1_RR	btd__RR_c  <=> btd__RR_e 		-1000.00	1000.00	  0.00
+BTNt2i	h_e + btn_e  -> h_c + btn_c 		  0.00	1000.00	  0.00
+CMLDC	2c25dho_c  -> co2_c + h_c + 5odhf2a_c 	AC5u0009GL000883	  0.00	1000.00	  0.00
+CO2t	co2_e  <=> co2_c 		-1000.00	1000.00	  0.00
+CYSt6	cys__L_e + h_e  <=> cys__L_c + h_c 		-1000.00	1000.00	  0.00
+CYTDK1	atp_c + cytd_c  -> adp_c + cmp_c + h_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+DHPS3	2ahhmd_c + 4abz_c  -> dhpt_c + ppi_c 	AC5u0009GL000847 or AC5u0009GL001068	  0.00	1000.00	  0.00
+DNMPPA	dhpmp_c + h2o_c  -> dhnpt_c + pi_c 	AC5u0009GL000642 or AC5u0009GL000848 or AC5u0009GL002154 or AC5u0009GL001067	  0.00	1000.00	  0.00
+D_LACt2	2 h_e + lac__D_e  <=> 2 h_c + lac__D_c 		-1000.00	1000.00	  0.00
+ETOHt1	etoh_e  <=> etoh_c 		-1000.00	1000.00	  0.00
+FA161tr	hdcea_e  <=> hdcea_c 		-1000.00	1000.00	  0.00
+FA182tr	ocdcya_e  <=> ocdcya_c 		-1000.00	1000.00	  0.00
+FA183tr	ocdctr_e  <=> ocdctr_c 		-1000.00	1000.00	  0.00
+FRD	fum_c + mql7_c  -> mqn7_c + succ_c 	AC5u0009GL001117	  0.00	1000.00	  0.00
+FRUK	atp_c + fru_c  -> adp_c + f6p_c + h_c 	AC5u0009GL001746	  0.00	1000.00	  0.00
+G5SADs	glu5sa_c  -> 1pyr5c_c + h2o_c + h_c 		  0.00	1000.00	  0.00
+GAT1_LRE	0.0211 cpocdacp_c + glyc3p_c + 0.0258 hdeACP_c + 0.075 ocdacp_c + 0.3519 ocdcyaACP_c + 0.1591 octeACP_c + 0.2566 palmACP_c + 0.0687 tdeacp_c + 0.0418 ocdctrACP_c  -> ACP_c + agly3p_LRE_c 		  0.00	1000.00	  0.00
+GCALDt	gcald_e  <=> gcald_c 		-1000.00	1000.00	  0.00
+GLYt6	h_e + gly_e  <=> gly_c + h_c 	or AC5u0009GL001042 or AC5u0009GL001664	-1000.00	1000.00	  0.00
+GND	6pgc_c + nadp_c  -> co2_c + nadph_c + ru5p__D_c 	AC5u0009GL002017	  0.00	1000.00	  0.00
+GTHRD	2 gthrd_c + nadp_c  <=> h_c + nadph_c + gthox_c 	AC5u0009GL000277	-1000.00	1000.00	  0.00
+GUAt2	h_e + gua_e  -> gua_c + h_c 		  0.00	1000.00	  0.00
+H2Ot5	h2o_e  <=> h2o_c 		-1000.00	1000.00	  0.00
+HCO3E	co2_c + h2o_c  <=> h_c + hco3_c 		-1000.00	1000.00	  0.00
+HCYSMT	amet_c + hcys__L_c  -> ahcys_c + h_c + met__L_c 		  0.00	1000.00	  0.00
+HISDC	h_c + his__L_c  -> co2_c + hista_c 		  0.00	1000.00	  0.00
+HSDy	hom__L_c + nadp_c  <=> aspsa_c + h_c + nadph_c 	AC5u0009GL000902	-1000.00	1000.00	  0.00
+HXANt2	h_e + hxan_e  -> h_c + hxan_c 	or AC5u0009GL000690 or AC5u0009GL000691	  0.00	1000.00	  0.00
+HYPOE	h2o_c + pyam5p_c  -> pi_c + pydam_c 	AC5u0009GL000581 or AC5u0009GL000992	  0.00	1000.00	  0.00
+INSt2r	h_e + ins_e  <=> h_c + ins_c 		-1000.00	1000.00	  0.00
+LIP_LRE	0.02 clpn_LRE_c + 0.23 lyspg_LRE_c + 0.75 pg_LRE_c  -> LIP_LRE_c[] 		  0.00	1000.00	  0.00
+LTAS_LRE	dgdag_LRE_c + 20 pg_LRE_c  -> LTA_LRE_c + 20 dag_LRE_c 		  0.00	1000.00	  0.00
+L_LACt2	2 h_e + lac__L_e  <=> 2 h_c + lac__L_c 		-1000.00	1000.00	  0.00
+MALt6	h_e + mal__L_e  <=> h_c + mal__L_c 		-1000.00	1000.00	  0.00
+MAN6PI	man6p_c  <=> f6p_c 	AC5u0009GL002012	-1000.00	1000.00	  0.00
+MELIBt	melib_e  <=> melib_c 		-1000.00	1000.00	  0.00
+METt6	h_e + met__L_e  <=> h_c + met__L_c 		-1000.00	1000.00	  0.00
+NACUP	nac_e  -> nac_c 		  0.00	1000.00	  0.00
+NADK	atp_c + nad_c  -> adp_c + h_c + nadp_c 	AC5u0009GL001810	  0.00	1000.00	  0.00
+NADN	h2o_c + nad_c  -> adprib_c + h_c + ncam_c 		  0.00	1000.00	  0.00
+NH3t	nh3_e  <=> nh3_c 		-1000.00	1000.00	  0.00
+NH4DIS	nh4_c  <=> h_c + nh3_c 		-1000.00	1000.00	  0.00
+NOX1	h_c + nadh_c + o2_c  -> nad_c + h2o2_c 	or AC5u0009GL000396	  0.00	1000.00	  0.00
+NOX2	2 h_c + 2 nadh_c + o2_c  -> 2 h2o_c + 2 nad_c 	AC5u0009GL000396	  0.00	1000.00	  0.00
+NTR3B	2 h_c + mql7_c + no3_c  -> h2o_c + 2 h_e + mqn7_c + no2_c 		  0.00	1000.00	  0.00
+OROt6	h_e + orot_e  <=> h_c + orot_c 		-1000.00	1000.00	  0.00
+PABAt	4abz_e  <=> 4abz_c 		-1000.00	1000.00	  0.00
+PGGH	h2o_c + 6pgg_c  -> g6p_c + glc__D_c 		  0.00	1000.00	  0.00
+PHEt6	h_e + phe__L_e  <=> h_c + phe__L_c 		-1000.00	1000.00	  0.00
+PIt6	h_e + pi_e  <=> h_c + pi_c 		-1000.00	1000.00	  0.00
+PNTOt2	h_e + pnto__R_e  <=> h_c + pnto__R_c 		-1000.00	1000.00	  0.00
+PPDt1	13ppd_c  <=> 13ppd_e 		-1000.00	1000.00	  0.00
+PROt6	h_e + pro__L_e  <=> h_c + pro__L_c 		-1000.00	1000.00	  0.00
+PYDAMt	h_e + pydam_e  <=> h_c + pydam_c 		-1000.00	1000.00	  0.00
+RAFFINt	raffin_e  <=> raffin_c 		-1000.00	1000.00	  0.00
+RBLK1	atp_c + rbl__L_c  -> adp_c + h_c + ru5p__L_c 		  0.00	1000.00	  0.00
+RBP4E	ru5p__L_c  <=> xu5p__D_c 		-1000.00	1000.00	  0.00
+RIBFLVt2	h_e + ribflv_e  -> h_c + ribflv_c 		  0.00	1000.00	  0.00
+SERt6	h_e + ser__L_e  <=> h_c + ser__L_c 	or AC5u0009GL001105 or AC5u0009GL001225 or AC5u0009GL001226	-1000.00	1000.00	  0.00
+TDPDRE	dtdp4d6dg_c  -> dtdp4d6dm_c 	AC5u0009GL001416	  0.00	1000.00	  0.00
+THMabc	atp_c + h2o_c + thm_e  -> adp_c + h_c + pi_c + thm_c 		  0.00	1000.00	  0.00
+THRD	nad_c + thr__L_c  -> h_c + nadh_c + 2aobut_c 		  0.00	1000.00	  0.00
+TMDPK	atp_c + thm_c  -> amp_c + h_c + thmpp_c 	AC5u0009GL000018	  0.00	1000.00	  0.00
+TRPt6	h_e + trp__L_e  <=> h_c + trp__L_c 		-1000.00	1000.00	  0.00
+UDCPDP	h2o_c + udcpdp_c  -> h_c + pi_c + udcpp_c 	AC5u0009GL000275 or AC5u0009GL001962	  0.00	1000.00	  0.00
+XYLK	atp_c + xylu__D_c  -> adp_c + h_c + xu5p__D_c 		  0.00	1000.00	  0.00
+tr_h2s	h2s_e  <=> h2s_c 		-1000.00	1000.00	  0.00
+tr_o2	o2_e  <=> o2_c 		-1000.00	1000.00	  0.00
+R10757	dhna_c + all-trans-Polyprenyl diphosphate  <=> co2_c + ppi_c + Demethylmenaquinol 	AC5u0009GL002179	-1000.00	1000.00	  0.00
+R00948	atp_c + g1p_c  <=> ppi_c + ADP-glucose 	AC5u0009GL002164 or AC5u0009GL000632	-1000.00	1000.00	  0.00
+R03122	h2o_c + Cyclomaltodextrin  <=> Maltodextrin 	AC5u0009GL002111	-1000.00	1000.00	  0.00
+R11262	h2o_c + Maltodextrin  <=> malt_c 	AC5u0009GL002111	-1000.00	1000.00	  0.00
+R09394	amet_c + gtp_c + AH2  <=> met__L_c + A + (8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate + 5'-Deoxyadenosine 	AC5u0009GL001952	-1000.00	1000.00	  0.00
+R11372	h2o_c + (8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate  <=> ppi_c + cPMP 	AC5u0009GL001950	-1000.00	1000.00	  0.00
+R05224 	2 atp_c + 2 gln__L_c + 2 h2o_c + Hydrogenobyrinate  -> 2 adp_c + 2 glu__L_c + 2 pi_c + Hydrogenobyrinate a,c diamide 	AC5u0009GL001901	  0.00	1000.00	  0.00
+R05177	Precorrin 8X  -> Hydrogenobyrinate 	AC5u0009GL001899	  0.00	1000.00	  0.00
+R07773	amet_c + Cobalt-precorrin 5B  -> ahcys_c + copre6_c 	AC5u0009GL001898	  0.00	1000.00	  0.00
+R07775	amet_c + Cobalt-precorrin 7  -> ahcys_c + copre8_c 	AC5u0009GL001897 or AC5u0009GL001896	  0.00	1000.00	  0.00
+R07774	amet_c + codhpre6_c  -> ahcys_c + Cobalt-precorrin 7 	AC5u0009GL001897 or AC5u0009GL001896	  0.00	1000.00	  0.00
+R05181	amet_c + Precorrin 4  -> ahcys_c + precorrin 5 	AC5u0009GL001895	  0.00	1000.00	  0.00
+R07772	h2o_c + Cobalt-precorrin 5A  -> acald_c + Cobalt-precorrin 5B 	AC5u0009GL001894	  0.00	1000.00	  0.00
+R05180	amet_c + Precorrin 3B  -> ahcys_c + Precorrin 4 	AC5u0009GL001893	  0.00	1000.00	  0.00
+COPRECT2MT	amet_c + m_0001  -> ahcys_c + copre3_c 	AC5u0009GL001889	  0.00	1000.00	  0.00
+R03948 	amet_c + Precorrin 2  <=> ahcys_c + h_c + Precorrin 3A 	AC5u0009GL001889	-1000.00	1000.00	  0.00
+R02864	fe2_c + shcl_c  -> 2 h_c + Siroheme 	AC5u0009GL001883	  0.00	1000.00	  0.00
+R03194	2 amet_c + uppg3_c  -> 2 ahcys_c + Precorrin 2 	AC5u0009GL001883	  0.00	1000.00	  0.00
+R03947	nad_c + Precorrin 2  -> h_c + nadh_c + shcl_c 	AC5u0009GL001883	  0.00	1000.00	  0.00
+R00066  	2 dmlz_c  <=> 4r5au_c + ribflv_c 	AC5u0009GL001776	-1000.00	1000.00	  0.00
+R07262	h2o_c + 1,4-Dihydroxy-2-naphthoyl-CoA  <=> coa_c + dhna_c 	AC5u0009GL001768	-1000.00	1000.00	  0.00
+NPHS2	sbzcoa_c  -> h2o_c + 1,4-Dihydroxy-2-naphthoyl-CoA 	AC5u0009GL001767	  0.00	1000.00	  0.00
+R07280	5aprbu_c + h2o_c  <=> 4r5au_c + pi_c 	AC5u0009GL001752 or AC5u0009GL000858	-1000.00	1000.00	  0.00
+R01074	atp_c + btn_c  <=> ppi_c + Biotinyl-5'-AMP 	AC5u0009GL001601	-1000.00	1000.00	  0.00
+R05145 	Apo-[carboxylase] + Biotinyl-5'-AMP  <=> amp_c + Holo-[carboxylase] 	AC5u0009GL001601	-1000.00	1000.00	  0.00
+R02295	pi_c + Nicotinate D-ribonucleoside  <=> h_c + nac_c + r1p_c 	AC5u0009GL001505	-1000.00	1000.00	  0.00
+R05081	dgdag_LRE_c + Phosphatidylglycerol  <=> dag_LRE_c + Glycerophosphoglycoglycerolipid 	AC5u0009GL001481	-1000.00	1000.00	  0.00
+R00830	gly_c + succoa_c  <=> 5aop_c + co2_c + coa_c 	AC5u0009GL001480	-1000.00	1000.00	  0.00
+R03966  	2-Hydroxymuconate  <=> gamma-Oxalocrotonate 	AC5u0009GL001477	-1000.00	1000.00	  0.00
+R09736 	amet_c + Demethylmenaquinol  <=> ahcys_c + Menaquinol 	AC5u0009GL001463	-1000.00	1000.00	  0.00
+R07274	h2s_c + O-Phospho-L-serine  <=> cys__L_c + pi_c 	AC5u0009GL001444 or AC5u0009GL002043	-1000.00	1000.00	  0.00
+R08549	akg_c + coa_c + nad_c  -> co2_c + nadh_c + succoa_c 	AC5u0009GL001377	  0.00	1000.00	  0.00
+R08572	atp_c + (D)-Glycerate  -> 2pg_c + adp_c 	AC5u0009GL001365	  0.00	1000.00	  0.00
+R02323 	h2o_c + Nicotinamide D-ribonucleotide  <=> pi_c + Nicotinamide-beta-riboside 	AC5u0009GL001278	-1000.00	1000.00	  0.00
+R03346	h2o_c + nicrnt_c  <=> pi_c + Nicotinate D-ribonucleoside 	AC5u0009GL001278	-1000.00	1000.00	  0.00
+R03066	2ahhmp_c + 4abz_c  <=> dhpt_c + h2o_c 	AC5u0009GL001068 or AC5u0009GL000847	-1000.00	1000.00	  0.00
+R11073	dhnpt_c  <=> 7,8-Dihydromonapterin 	AC5u0009GL001062	-1000.00	1000.00	  0.00
+R11026	nad_c + (R)-5,6-Dihydrothymine  <=> h_c + nadh_c + thym_c 	AC5u0009GL001033 or AC5u0009GL001034	-1000.00	1000.00	  0.00
+R02971 	atp_c + Pantetheine  <=> adp_c + pan4p_c 	AC5u0009GL000965	-1000.00	1000.00	  0.00
+R04391	atp_c + N-((R)-Pantothenoyl)-L-cysteine  -> adp_c + (R)-4'-Phosphopantothenoyl-L-cysteine 	AC5u0009GL000965	  0.00	1000.00	  0.00
+R02135	h2o_c + thmmp_c  <=> pi_c + thm_c 	AC5u0009GL000964 or AC5u0009GL001481 or AC5u0009GL002025 or AC5u0009GL000020	-1000.00	1000.00	  0.00
+R04620	ahdt_c + 3 h2o_c  <=> dhnpt_c + 3 pi_c 	AC5u0009GL000964 or AC5u0009GL001481 or AC5u0009GL002025	-1000.00	1000.00	  0.00
+R01466	h2o_c + O-Phospho-L-homoserine  -> pi_c + thr__L_c 	AC5u0009GL000903	  0.00	1000.00	  0.00
+R01771	atp_c + hom__L_c  <=> adp_c + O-Phospho-L-homoserine 	AC5u0009GL000901	-1000.00	1000.00	  0.00
+R07404	air_c + atp_c + hco3_c  -> adp_c + pi_c + 5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole 	AC5u0009GL000900 or AC5u0009GL000325 or AC5u0009GL000899	  0.00	1000.00	  0.00
+R07405	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole  <=> 5aizc_c 	AC5u0009GL000900 or AC5u0009GL000325 or AC5u0009GL000899	-1000.00	1000.00	  0.00
+R00548 	fmn_c + h2o_c  <=> pi_c + ribflv_c 	AC5u0009GL000858	-1000.00	1000.00	  0.00
+R09372 	2 h_c + 2 nadph_c + Methylselenic acid  <=> 2 h2o_c + 2 nadp_c + Methaneselenol 	AC5u0009GL000798 or AC5u0009GL001474 or AC5u0009GL000835 or AC5u0009GL001080	-1000.00	1000.00	  0.00
+R00900  	seln_c + 3 h2o_c + 3 nadph_c  <=> 5 h_c + 3 nadp_c + Selenite 	AC5u0009GL000798 or AC5u0009GL001474 or AC5u0009GL000835 or AC5u0009GL001080	-1000.00	1000.00	  0.00
+R00418	uacgam_c  <=> UDP-N-acetyl-D-galactosamine 	AC5u0009GL000772	-1000.00	1000.00	  0.00
+R01411	h2o_c + 5-Methylcytosine  <=> nh4_c + thym_c 	AC5u0009GL000758 or AC5u0009GL000377	-1000.00	1000.00	  0.00
+R04770 	h2o_c + L-Selenomethionine  <=> 2obut_c + nh4_c + Methaneselenol 	AC5u0009GL000727	-1000.00	1000.00	  0.00
+R09366  	h2o_c + Se-Methyl-L-selenocysteine  <=> nh4_c + pyr_c + Methaneselenol 	AC5u0009GL000726	-1000.00	1000.00	  0.00
+R01908	Oxalyl-CoA  <=> co2_c + Formyl-CoA 	AC5u0009GL000698 or AC5u0009GL000699	-1000.00	1000.00	  0.00
+R00261	4abut_c + co2_c  -> glu__L_c 	AC5u0009GL000688 or AC5u0009GL000689	  0.00	1000.00	  0.00
+R00489	asp__L_c  <=> co2_c + beta-Alanine 	AC5u0009GL000688 or AC5u0009GL000689	-1000.00	1000.00	  0.00
+R02322	h2o_c + Nicotinamide D-ribonucleotide  <=> nh4_c + nicrnt_c 	AC5u0009GL000662 or AC5u0009GL002134	-1000.00	1000.00	  0.00
+R00508	h2o_c + 3'-Phosphoadenylyl sulfate  <=> pi_c + Adenylyl sulfate 	AC5u0009GL000653	-1000.00	1000.00	  0.00
+R03531	h2o_c + dITP  <=> dimp_c + ppi_c 	AC5u0009GL000642 or AC5u0009GL000848 or AC5u0009GL002154 or AC5u0009GL001067	-1000.00	1000.00	  0.00
+R02720	h2o_c + XTP  <=> ppi_c + xmp_c 	AC5u0009GL000642 or AC5u0009GL000848 or AC5u0009GL002154 or AC5u0009GL001067	-1000.00	1000.00	  0.00
+R00908	akg_c + beta-Alanine  <=> glu__L_c + 3-Oxopropanoate 	AC5u0009GL000606	-1000.00	1000.00	  0.00
+R03530	atp_c + dIDP  <=> adp_c + dITP 	AC5u0009GL000603	-1000.00	1000.00	  0.00
+R03409 	gdptp_c + h2o_c  <=> ppgpp_c + pi_c 	AC5u0009GL000600 or AC5u0009GL000771 or AC5u0009GL000769	-1000.00	1000.00	  0.00
+R02058	accoa_c + gam6p_c  <=> coa_c + N-Acetyl-D-glucosamine 6-phosphate 	AC5u0009GL000584	-1000.00	1000.00	  0.00
+R09365	5mthglu_c + Selenohomocysteine  <=> thglu_c + L-Selenomethionine 	AC5u0009GL000437	-1000.00	1000.00	  0.00
+R03013	h2o_c + L-Histidinol phosphate  <=> pi_c + L-Histidinol 	AC5u0009GL000423	-1000.00	1000.00	  0.00
+R05835	h2o_c + Glycocholate  <=> gly_c + Cholic acid 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R02797	h2o_c + Taurocholate  <=> Taurine + Cholic acid 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R03975	h2o_c + Glycochenodeoxycholate  <=> gly_c + Chenodeoxycholate 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R03977	h2o_c + Taurochenodeoxycholate  <=> Chenodeoxycholate + Taurine 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R04486	h2o_c + Glycodeoxycholate  <=> gly_c + Deoxycholic acid 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R04487	h2o_c + Taurodeoxycholate  <=> Deoxycholic acid + Taurine 	AC5u0009GL000416	-1000.00	1000.00	  0.00
+R04212	adp_c + asntrna_c + glu__L_c + pi_c  <=> atp_c + gln__L_c + h2o_c + L-Aspartyl-tRNA(Asn) 	AC5u0009GL000331 or AC5u0009GL000330 or AC5u0009GL000329	-1000.00	1000.00	  0.00
+R01547	atp_c + damp_c  -> adp_c + dadp_c 	AC5u0009GL000309	  0.00	1000.00	  0.00
+R11319	thmpp_c  -> amp_c + Thiamin triphosphate 	AC5u0009GL000309	  0.00	1000.00	  0.00
+R09395	2 Thiocarboxy-[sulfur-carrier protein] + cPMP  <=> 2 Sulfur-carrier protein + Molybdopterin 	AC5u0009GL000262	-1000.00	1000.00	  0.00
+R11581	gtp_c + Molybdoenzyme molybdenum cofactor  <=> ppi_c + Guanylyl molybdenum cofactor 	AC5u0009GL000253	-1000.00	1000.00	  0.00
+R09735	Molybdate + Adenylated molybdopterin  <=> amp_c + h2o_c + Molybdoenzyme molybdenum cofactor 	AC5u0009GL000251	-1000.00	1000.00	  0.00
+R01395	adp_c + cbp_c  -> atp_c + Carbamate 	AC5u0009GL000143	  0.00	1000.00	  0.00
+R12185	hco3_c + nh4_c  -> h2o_c + Carbamate 	AC5u0009GL000143	  0.00	1000.00	  0.00
+R01150	2 ala__D_c + atp_c  <=> adp_c + alaala_c + pi_c 	AC5u0009GL000096	-1000.00	1000.00	  0.00
+R00137	atp_c + Nicotinamide D-ribonucleotide  <=> nad_c + ppi_c 	AC5u0009GL000090	-1000.00	1000.00	  0.00
+R01122	dmpp_c + tRNA adenine  <=> ppi_c + tRNA containing 6-isopentenyladenosine 	AC5u0009GL000058	-1000.00	1000.00	  0.00
+R03651	atp_c + glu__L_c + tRNA(Gln)  <=> amp_c + ppi_c + L-Glutamyl-tRNA(Gln) 	AC5u0009GL000056	-1000.00	1000.00	  0.00
+R02090	atp_c + dgmp_c  <=> adp_c + dgdp_c 	AC5u0009GL000028	-1000.00	1000.00	  0.00
+R00851	glyc3p_c + Acyl-CoA  <=> agly3p_LRE_c + coa_c 	AC5u0009GL000013 or AC5u0009GL001555	-1000.00	1000.00	  0.00
+R05227	atp_c + cobalt2_c + h2o_c + Hydrogenobyrinate a,c diamide  -> adp_c + co2dam_c + h_c + pi_c 		  0.00	1000.00	  0.00
+R02474	h2o_c + pnto__R_c  <=> pant__R_c + beta-Alanine 		-1000.00	1000.00	  0.00
+R09726	atp_c + Molybdopterin  <=> ppi_c + Adenylated molybdopterin 		-1000.00	1000.00	  0.00
+R05219	amet_c + precorrin 5  -> ac_c + ahcys_c + Precorrin 6X 		  0.00	1000.00	  0.00
+SELM	seln_c  <=> Methaneselenol 		-1000.00	1000.00	  0.00
+SELM2	Se-Methyl-L-selenocysteine  <=> scys__L_c 		-1000.00	1000.00	  0.00
+R05150	nadp_c + Precorrin 6Y  <=> h_c + nadph_c + Precorrin 6X 		-1000.00	1000.00	  0.00
+R05217	h_c + nadh_c + o2_c + Precorrin 3A  -> h2o_c + nad_c + Precorrin 3B 		  0.00	1000.00	  0.00
+HL_2H3MPDH	3mop_c + h_c + nadh_c  <=> nad_c + 2 m_0012 	AC5u0009GL000435 or AC5u0009GL000781	-1000.00	1000.00	  0.00
+HL_3HAD100	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]  -> h2o_c + m_0008 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD120	3hddacp_c  -> h2o_c + m_0009 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD121	(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]  -> h2o_c + Trans-3-cis-5-dodecenoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD140	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]  -> h2o_c + m_0011 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD141	(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]  -> h2o_c + Trans-3-cis-7-myristoleoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD160	R-3-hydroxypalmitoyl-[acyl-carrier protein]  -> h2o_c + m_0010 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD161	(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]  -> h2o_c + Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD180	(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]  -> h2o_c + Trans-octadec-2-enoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD181	(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]  -> h2o_c + Trans-3-cis-11-vacceoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD40	(3R)-3-Hydroxyacyl-[acyl-carrier protein]  -> but2eACP_c + h2o_c 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD60	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]  -> h2o_c + Trans-Hex-2-enoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3HAD80	3hocacp_c  -> h2o_c + Trans-Oct-2-enoyl-[acyl-carrier protein] 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_3OAR100	3oxdeacp_c + h_c + nadph_c  <=> nadp_c + (R)-3-Hydroxydecanoyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR120	3oxddacp_c + h_c + nadph_c  <=> 3hddacp_c + nadp_c 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR140	3oxtdacp_c + h_c + nadph_c  <=> nadp_c + (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR160	h_c + nadph_c + 3-Oxohexadecanoyl-[acyl-carrier protein]  <=> nadp_c + R-3-hydroxypalmitoyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR180	h_c + nadph_c + 3-Oxooctadecanoyl-[acyl-carrier protein]  <=> nadp_c + (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR181	h_c + nadph_c + 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]  -> nadp_c + (R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein] 	AC5u0009GL000228	  0.00	1000.00	  0.00
+HL_3OAR40	actACP_c + h_c + nadph_c  <=> nadp_c + (3R)-3-Hydroxyacyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR60	3oxhacp_c + h_c + nadph_c  <=> nadp_c + (R)-3-Hydroxyhexanoyl-[acyl-carrier protein] 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAR80	3oxocacp_c + h_c + nadph_c  <=> 3hocacp_c + nadp_c 	AC5u0009GL000228	-1000.00	1000.00	  0.00
+HL_3OAS120	h_c + malACP_c + Decanoyl-ACP (n-C10:0ACP)  -> 3oxddacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_3OAS140	ddcaACP_c + h_c + malACP_c  -> 3oxtdacp_c + ACP_c + co2_c 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_3OAS160	h_c + malACP_c + myrsACP_c  -> ACP_c + co2_c + 3-Oxohexadecanoyl-[acyl-carrier protein] 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_3OAS180	h_c + malACP_c + palmACP_c  -> ACP_c + co2_c + 3-Oxooctadecanoyl-[acyl-carrier protein] 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_3OAS181	h_c + hdeACP_c + malACP_c  -> ACP_c + co2_c + 3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein] 	AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_ACP1_FMN	fmn_c + h2o_c  -> pi_c + ribflv_c 	AC5u0009GL000581 or AC5u0009GL000093 or AC5u0009GL000858	  0.00	1000.00	  0.00
+HL_ADADir	atp_c + dcyt_c  -> adp_c + dcmp_c + h_c 	AC5u0009GL000071	  0.00	1000.00	  0.00
+HL_ADK2	amp_c + pppi_c  <=> adp_c + ppi_c 	AC5u0009GL000309	-1000.00	1000.00	  0.00
+HL_ADK3	amp_c + gtp_c  <=> adp_c + gdp_c 	AC5u0009GL000309	-1000.00	1000.00	  0.00
+HL_ADK4	amp_c + itp_c  -> adp_c + idp_c 	AC5u0009GL000309	  0.00	1000.00	  0.00
+HL_ADNK1	adn_c + atp_c  -> adp_c + amp_c + h_c 	AC5u0009GL000309	  0.00	1000.00	  0.00
+HL_AIRC2	air_c + atp_c + hco3_c  -> adp_c + h_c + pi_c + 5-phosphoribosyl-5-carboxyaminoimidazole 	AC5u0009GL000899	  0.00	1000.00	  0.00
+HL_AIRC3	5aizc_c  <=> 5-phosphoribosyl-5-carboxyaminoimidazole 	AC5u0009GL000900	-1000.00	1000.00	  0.00
+HL_ALATA_D2	ala__D_c + pydx5p_c  -> pyam5p_c + pyr_c 	AC5u0009GL000116	  0.00	1000.00	  0.00
+HL_ALATA_L2	ala__L_c + pydx5p_c  -> pyam5p_c + pyr_c 	AC5u0009GL000116	  0.00	1000.00	  0.00
+HL_AMMQLT8	amet_c + 2-Demethylmenaquinol 8  -> ahcys_c + h_c + Menaquinol 8 	AC5u0009GL001463	  0.00	1000.00	  0.00
+HL_AP4AS	2 atp_c + h_c  -> ap4a_c + ppi_c 	AC5u0009GL000390	  0.00	1000.00	  0.00
+HL_ARGDI_1	arg__L_c + h2o_c  -> citr__L_c + h_c + nh3_c 	AC5u0009GL000127	  0.00	1000.00	  0.00
+HL_ATHRDHr	nadp_c + L-Allo-threonine  <=> h_c + nadph_c + 2aobut_c 	AC5u0009GL001259	-1000.00	1000.00	  0.00
+HL_CYSDS	cys__L_c + h2o_c  -> h2s_c + nh4_c + pyr_c 	AC5u0009GL000726	  0.00	1000.00	  0.00
+HL_CYTDH	cytd_c + h2o_c  -> csn_c + rib__D_c 	AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL001662 or AC5u0009GL001778 or AC5u0009GL001662 or AC5u0009GL001778	  0.00	1000.00	  0.00
+HL_DALAt2r	h_e + m_0003  <=> ala__D_c + h_c 	AC5u0009GL001042 or AC5u0009GL001664 or AC5u0009GL001042 or AC5u0009GL001664	-1000.00	1000.00	  0.00
+HL_DCMPDA_1	dcmp_c + h2o_c  -> dump_c + nh3_c 	AC5u0009GL001387	  0.00	1000.00	  0.00
+HL_DHNAOT_1	dhna_c + nad_c + All-trans-Octaprenyl diphosphate  -> 2dmmq8_c + co2_c + nadh_c + ppi_c 	AC5u0009GL002179	  0.00	1000.00	  0.00
+HL_DHORDi	dhor__S_c + o2_c  <=> orot_c + h2o2_c 	AC5u0009GL001495	-1000.00	1000.00	  0.00
+HL_DHPPDA2	h2o_c + h_c + 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate  -> 5apru_c + nh4_c 	AC5u0009GL001777	  0.00	1000.00	  0.00
+HL_DHPS2	4abz_c + 6-hydroxymethyl-dihydropterin pyrophosphate  -> dhpt_c + ppi_c 	AC5u0009GL000847 or AC5u0009GL001068	  0.00	1000.00	  0.00
+HL_DSERDHr	nadp_c + D-Serine  <=> h_c + nadph_c + 2-Aminomalonate semialdehyde 	AC5u0009GL001259	-1000.00	1000.00	  0.00
+HL_DSERt2	h_e + m_0004  <=> h_c + D-Serine 	AC5u0009GL001042 or AC5u0009GL001664	-1000.00	1000.00	  0.00
+HL_DURADx	56dura_c + nad_c  <=> h_c + nadh_c + ura_c 	AC5u0009GL001034 and AC5u0009GL001033	-1000.00	1000.00	  0.00
+HL_EAR100x	h_c + nadh_c + m_0008  -> nad_c + Decanoyl-ACP (n-C10:0ACP) 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR100y	h_c + nadph_c + m_0008  -> nadp_c + Decanoyl-ACP (n-C10:0ACP) 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR120x	h_c + nadh_c + m_0009  -> ddcaACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR120y	h_c + nadph_c + m_0009  -> ddcaACP_c + nadp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR121x	h_c + nadh_c + Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]  -> nad_c + Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1) 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR121y	h_c + nadph_c + Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]  -> nadp_c + Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1) 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR140x	h_c + nadh_c + m_0011  -> myrsACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR140y	h_c + nadph_c + m_0011  -> myrsACP_c + nadp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR141x	h_c + nadh_c + Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]  -> nad_c + tdeACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR141y	h_c + nadph_c + Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]  -> nadp_c + tdeACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR160x	h_c + nadh_c + m_0010  -> nad_c + palmACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR160y	h_c + nadph_c + m_0010  -> nadp_c + palmACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR161x	h_c + nadh_c + Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]  -> hdeACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR161y	h_c + nadph_c + Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]  -> hdeACP_c + nadp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR180x	h_c + nadh_c + Trans-octadec-2-enoyl-[acyl-carrier protein]  -> nad_c + ocdcaACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR180y	h_c + nadph_c + Trans-octadec-2-enoyl-[acyl-carrier protein]  -> nadp_c + ocdcaACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR181x	h_c + nadh_c + Trans-3-cis-11-vacceoyl-[acyl-carrier protein]  -> nad_c + octeACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR181y	h_c + nadph_c + Trans-3-cis-11-vacceoyl-[acyl-carrier protein]  -> nadp_c + octeACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR40y	but2eACP_c + h_c + nadph_c  -> butACP_c + nadp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR60x	h_c + nadh_c + Trans-Hex-2-enoyl-[acyl-carrier protein]  -> hexACP_c + nad_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR60y	h_c + nadph_c + Trans-Hex-2-enoyl-[acyl-carrier protein]  -> hexACP_c + nadp_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR80x	h_c + nadh_c + Trans-Oct-2-enoyl-[acyl-carrier protein]  -> nad_c + ocACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_EAR80y	h_c + nadph_c + Trans-Oct-2-enoyl-[acyl-carrier protein]  -> nadp_c + ocACP_c 	AC5u0009GL000221	  0.00	1000.00	  0.00
+HL_ECOAH6	(S)-3-Hydroxytetradecanoyl-CoA  <=> h2o_c + Trans-Tetradec-2-enoyl-CoA 	AC5u0009GL001661	-1000.00	1000.00	  0.00
+HL_ECOAH7	(S)-3-Hydroxyhexadecanoyl-CoA  <=> h2o_c + Trans-Hexadec-2-enoyl-CoA 	AC5u0009GL001661	-1000.00	1000.00	  0.00
+HL_ECOAH8	(S)-3-Hydroxyoctadecanoyl-CoA  <=> h2o_c + Trans-Octadec-2-enoyl-CoA 	AC5u0009GL001661	-1000.00	1000.00	  0.00
+HL_F1PP	h2o_c + D-Fructose 1-phosphate  -> fru_c + pi_c 	AC5u0009GL000639 or AC5u0009GL002157 or AC5u0009GL002089 or AC5u0009GL000581	  0.00	1000.00	  0.00
+HL_F6PP	f6p_c + h2o_c  -> fru_c + pi_c 	AC5u0009GL002089 or AC5u0009GL000581 or AC5u0009GL000639 or AC5u0009GL002157 or AC5u0009GL001752	  0.00	1000.00	  0.00
+HL_FBP	fdp_c + h2o_c  -> f6p_c + pi_c 	AC5u0009GL000581	  0.00	1000.00	  0.00
+HL_FE2abc	atp_c + h2o_c + fe2_e  -> adp_c + fe2_c + h_c + pi_c 	AC5u0009GL001764	  0.00	1000.00	  0.00
+HL_FORCT	Formyl-CoA(4-) + Oxalate  <=> for_c + Oxalyl-CoA 	AC5u0009GL000692	-1000.00	1000.00	  0.00
+HL_FRDx	fum_c + h_c + nadh_c  <=> nad_c + succ_c 	AC5u0009GL001117	-1000.00	1000.00	  0.00
+HL_G1PP	g1p_c + h2o_c  -> glc__D_c + pi_c 	AC5u0009GL002089 or AC5u0009GL000581	  0.00	1000.00	  0.00
+HL_G3PD2	glyc3p_c + nadp_c  <=> dhap_c + h_c + nadph_c 	AC5u0009GL000793	-1000.00	1000.00	  0.00
+HL_G3PT	glyc3p_c + h2o_c  -> glyc_c + pi_c 	AC5u0009GL000639 or AC5u0009GL002157 or AC5u0009GL000621 or AC5u0009GL002175	  0.00	1000.00	  0.00
+HL_G6PP	g6p_c + h2o_c  -> glc__D_c + pi_c 	AC5u0009GL001752 or AC5u0009GL000639 or AC5u0009GL002157 or AC5u0009GL002089	  0.00	1000.00	  0.00
+HL_GALKr	atp_c + gal_c  -> adp_c + gal1p_c + h_c 	AC5u0009GL002028	  0.00	1000.00	  0.00
+HL_GDPDPK	atp_c + gdp_c  -> amp_c + ppgpp_c + h_c 	AC5u0009GL000169 or AC5u0009GL000169	  0.00	1000.00	  0.00
+HL_GDPTPDP	gdptp_c + h2o_c  -> gtp_c + ppi_c 	AC5u0009GL000169	  0.00	1000.00	  0.00
+HL_GK2	datp_c + gmp_c  <=> dadp_c + gdp_c 	AC5u0009GL000028 or AC5u0009GL000948	-1000.00	1000.00	  0.00
+HL_GLNTRS2	atp_c + nh4_c + Glutamine tRNA charged with glutamate  -> amp_c + glntrna_c + h_c + ppi_c 	AC5u0009GL000331 and AC5u0009GL000330 and AC5u0009GL000329	  0.00	1000.00	  0.00
+HL_GLUABUTt7	4abut_c + glu__L_e  <=> glu__L_c + m_0002 	AC5u0009GL000082 or AC5u0009GL001157	-1000.00	1000.00	  0.00
+HL_GLUabc	atp_c + glu__L_e + h2o_c  -> adp_c + glu__L_c + h_c + pi_c 	( AC5u0009GL000164 or AC5u0009GL000669 or AC5u0009GL001684 or AC5u0009GL002127 ) and ( AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL001849 or AC5u0009GL002128 )	  0.00	1000.00	  0.00
+HL_GLYCK2	atp_c + glyc__R_c  -> 2pg_c + adp_c + h_c 	AC5u0009GL001365	  0.00	1000.00	  0.00
+HL_GMPS	atp_c + nh4_c + xmp_c  -> amp_c + gmp_c + 2 h_c + ppi_c 	AC5u0009GL000967	  0.00	1000.00	  0.00
+HL_GRTAL	25 udpg_c + teichoic_acid_containing_ribitol_P  -> 25 h_c + 25 udp_c + ribitol_teichoic_acid__n25__with_glucose_substitutions 	AC5u0009GL001162 or AC5u0009GL001162 or AC5u0009GL001162	  0.00	1000.00	  0.00
+HL_GTPCII2	gtp_c + 3 h2o_c  -> for_c + 2 h_c + ppi_c + 2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate 	AC5u0009GL000911 or AC5u0009GL001775	  0.00	1000.00	  0.00
+HL_GUAt2r	h_e + gua_e  <=> gua_c + h_c 	AC5u0009GL000376 or AC5u0009GL000690 or AC5u0009GL000691	-1000.00	1000.00	  0.00
+HL_HSST	hom__L_c + succoa_c  -> coa_c + O-Succinyl-L-homoserine 	AC5u0009GL002042	  0.00	1000.00	  0.00
+HL_I2FE2SR	[2Fe-1S] desulfurated iron-sulfur cluster + IscS with bound sulfur + IscU scaffold protein  -> 4 h_c + IscS sulfur acceptor protein + IscU with bound [2Fe-2S] cluster 	AC5u0009GL001759 and ( AC5u0009GL000683 or AC5u0009GL001347 )	  0.00	1000.00	  0.00
+HL_I2FE2SS	2 fe2_c + Flavin adenine dinucleotide reduced + 2 IscS with bound sulfur + IscU scaffold protein  -> fad_c + 6 h_c + 2 IscS sulfur acceptor protein + IscU with bound [2Fe-2S] cluster 	( AC5u0009GL000683 or AC5u0009GL001347 ) and AC5u0009GL001759	  0.00	1000.00	  0.00
+HL_ICYSDS	cys__L_c + IscS sulfur acceptor protein  -> ala__L_c + IscS with bound sulfur 	AC5u0009GL000683 or AC5u0009GL001347	  0.00	1000.00	  0.00
+HL_IMPD	h2o_c + imp_c + nad_c  -> h_c + nadh_c + xmp_c 	AC5u0009GL001503	  0.00	1000.00	  0.00
+HL_KAS14	h_c + malACP_c + Acetyl-ACP  -> ACP_c + actACP_c + co2_c 	AC5u0009GL000227 or AC5u0009GL000227	  0.00	1000.00	  0.00
+HL_LIPATPT	atp_c + Lipoate  -> ppi_c + Lipoyl-AMP 	AC5u0009GL001200	  0.00	1000.00	  0.00
+HL_LSERDHr	nadp_c + ser__L_c  <=> h_c + nadph_c + 2-Aminomalonate semialdehyde 	AC5u0009GL001259	-1000.00	1000.00	  0.00
+HL_LTA_LRE	LTAala_LRE_c + LTAglc_LRE_c + 115.3 ala__D_c + 185.3 atp_c + 150 ctp_c + 120 glyc3p_c + 171 h2o_c + pa_LRE_c + 130.2 udpg_c  -> 185.3 adp_c + 150 cmp_c + 173.2 h_c + 186.3 pi_c + 20 ppi_c + 130.2 udp_c + LTAtotal_LRE_c[] 	AC5u0009GL001598 and AC5u0009GL001144	  0.00	1000.00	  0.00
+HL_L_LACD2	lac__L_c + q8_c  -> pyr_c + q8h2_c 	( AC5u0009GL000797 and AC5u0009GL000795 and AC5u0009GL000796 ) or AC5u0009GL001503	  0.00	1000.00	  0.00
+HL_L_LACD3	lac__L_c + mqn8_c  -> pyr_c + Menaquinol 8 	( AC5u0009GL000795 and AC5u0009GL000797 and AC5u0009GL000796 ) or AC5u0009GL001503	  0.00	1000.00	  0.00
+HL_MALTATr	accoa_c + malt_c  -> coa_c + Acetyl-maltose 	AC5u0009GL000150 or AC5u0009GL000150 or AC5u0009GL000472	  0.00	1000.00	  0.00
+HL_ME1	mal__L_c + nad_c  -> co2_c + nadh_c + pyr_c 	AC5u0009GL001119	  0.00	1000.00	  0.00
+HL_MELIBt2	h_e + melib_e  -> h_c + melib_c 	AC5u0009GL002019	  0.00	1000.00	  0.00
+HL_METGL	h2o_c + met__L_c  -> 2obut_c + nh4_c + Methanethiol CH4S 	AC5u0009GL000726	  0.00	1000.00	  0.00
+HL_METSOXR1	trdrd_c + L-Methionine Sulfoxide  -> h2o_c + met__L_c + trdox_c 	( AC5u0009GL000248 and AC5u0009GL001491 ) or ( AC5u0009GL001491 and AC5u0009GL000051 ) or ( AC5u0009GL001491 and AC5u0009GL000051 ) or ( AC5u0009GL000248 and AC5u0009GL001491 )	  0.00	1000.00	  0.00
+HL_METSOXR2	trdrd_c + L-methionine-R-sulfoxide  -> h2o_c + met__L_c + trdox_c 	( AC5u0009GL001491 and AC5u0009GL000913 ) or ( AC5u0009GL001491 and AC5u0009GL000913 )	  0.00	1000.00	  0.00
+HL_MGDS	gtp_c + h_c + Molybdoenzyme molybdenum cofactor  -> h2o_c + ppi_c + moldybdopterin_guanine_dinucleotide 	AC5u0009GL000253 and AC5u0009GL000252	  0.00	1000.00	  0.00
+HL_MLTG1	h2o_c + Maltotriose C18H32O16  -> glc__D_c + malt_c 	AC5u0009GL002111	  0.00	1000.00	  0.00
+HL_MLTG2	h2o_c + Maltotetraose  -> glc__D_c + Maltotriose C18H32O16 	AC5u0009GL002111	  0.00	1000.00	  0.00
+HL_MLTG3	h2o_c + Maltopentaose  -> glc__D_c + Maltotetraose 	AC5u0009GL002111	  0.00	1000.00	  0.00
+HL_MLTG4	h2o_c + Maltohexaose  -> glc__D_c + Maltopentaose 	AC5u0009GL002111	  0.00	1000.00	  0.00
+HL_MOCOS	2 h_c + Molybdate + Adenylated molybdopterin  -> amp_c + cu2_c + h2o_c + Molybdoenzyme molybdenum cofactor 	AC5u0009GL000251	  0.00	1000.00	  0.00
+HL_NADDP	h2o_c + nad_c  -> amp_c + 2 h_c + NMN C11H14N2O8P 	AC5u0009GL001552 or AC5u0009GL000327	  0.00	1000.00	  0.00
+HL_NADH10	h_c + mqn8_c + nadh_c  -> nad_c + Menaquinol 8 	AC5u0009GL002057 or AC5u0009GL000675 or AC5u0009GL001904	  0.00	1000.00	  0.00
+HL_NADH5	h_c + nadh_c + q8_c  -> nad_c + q8h2_c 	AC5u0009GL001904 or AC5u0009GL000675 or AC5u0009GL002057	  0.00	1000.00	  0.00
+HL_NADH9	2dmmq8_c + h_c + nadh_c  -> nad_c + 2-Demethylmenaquinol 8 	AC5u0009GL002057 or AC5u0009GL000675 or AC5u0009GL001904	  0.00	1000.00	  0.00
+HL_NMNAT	atp_c + h_c + NMN C11H14N2O8P  -> nad_c + ppi_c 	AC5u0009GL000090 or AC5u0009GL000090 or AC5u0009GL001630 or AC5u0009GL000090	  0.00	1000.00	  0.00
+HL_NMNP	m_0006  -> NMN C11H14N2O8P 	AC5u0009GL002036	  0.00	1000.00	  0.00
+HL_NO2t3	h_e + no2_c  -> h_c + m_0007 	AC5u0009GL000260	  0.00	1000.00	  0.00
+HL_NTP10	h2o_c + itp_c  -> h_c + idp_c + pi_c 	AC5u0009GL000020	  0.00	1000.00	  0.00
+HL_NTP3	gtp_c + h2o_c  -> gdp_c + h_c + pi_c 	AC5u0009GL001268 or AC5u0009GL000020 or AC5u0009GL001352 or AC5u0009GL000958	  0.00	1000.00	  0.00
+HL_NTP5	ctp_c + h2o_c  -> cdp_c + h_c + pi_c 	AC5u0009GL000020	  0.00	1000.00	  0.00
+HL_NTPP9	h2o_c + itp_c  -> h_c + imp_c + ppi_c 	AC5u0009GL000642 or AC5u0009GL002154	  0.00	1000.00	  0.00
+HL_NTRARx	h_c + nadh_c + no3_c  -> h2o_c + nad_c + no2_c 	AC5u0009GL000248 and AC5u0009GL000247 and AC5u0009GL000246 and AC5u0009GL000245	  0.00	1000.00	  0.00
+HL_NTRARy	h_c + nadph_c + no3_c  -> h2o_c + nadp_c + no2_c 	AC5u0009GL000248 and AC5u0009GL000247 and AC5u0009GL000246 and AC5u0009GL000245	  0.00	1000.00	  0.00
+HL_OCTDPS	frdp_c + 5 ipdp_c  -> 5 ppi_c + All-trans-Octaprenyl diphosphate 	AC5u0009GL002178	  0.00	1000.00	  0.00
+HL_OGMEACPD	3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester  -> h2o_c + Enoylglutaryl-[acyl-carrier protein] methyl ester 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_OGMEACPR	h_c + nadph_c + 3-Oxo-glutaryl-[acyl-carrier protein] methyl ester  -> nadp_c + 3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester 	AC5u0009GL000228	  0.00	1000.00	  0.00
+HL_OPMEACPD	3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester  -> h2o_c + Enoylpimeloyl-[acyl-carrier protein] methyl ester 	AC5u0009GL000225 or AC5u0009GL000233	  0.00	1000.00	  0.00
+HL_OXCDC	h_c + Oxalyl-CoA  -> co2_c + Formyl-CoA(4-) 	AC5u0009GL000698	  0.00	1000.00	  0.00
+HL_P5CR	1pyr5c_c + 2 h_c + nadph_c  -> nadp_c + pro__L_c 	AC5u0009GL000776	  0.00	1000.00	  0.00
+HL_PAPPT1	uAgla_c + udcpp_c  -> ump_c + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine 	AC5u0009GL001332	  0.00	1000.00	  0.00
+HL_PAPPT3	udcpp_c + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine  -> ump_c + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 	AC5u0009GL001332	  0.00	1000.00	  0.00
+HL_PMDPHT	5aprbu_c + h2o_c  -> 4r5au_c + pi_c 	AC5u0009GL000858 or AC5u0009GL000093	  0.00	1000.00	  0.00
+HL_PPIabc	atp_c + h2o_c + m_0005  -> adp_c + h_c + pi_c + ppi_c 	AC5u0009GL001317 and AC5u0009GL001315 and AC5u0009GL001314 and AC5u0009GL001314 and AC5u0009GL001316 and AC5u0009GL001317	  0.00	1000.00	  0.00
+HL_PPK	atp_c + pi_c  -> adp_c + ppi_c 	AC5u0009GL000770	  0.00	1000.00	  0.00
+HL_PPNCL2	4ppan_c + ctp_c + cys__L_c  -> 4ppcys_c + cmp_c + h_c + ppi_c 	AC5u0009GL000026	  0.00	1000.00	  0.00
+HL_PREN	frdp_c + 4 ipdp_c  -> hepdp_c + 4 ppi_c 	AC5u0009GL002178	  0.00	1000.00	  0.00
+HL_PROabc	atp_c + h2o_c + pro__L_e  -> adp_c + h_c + pi_c + pro__L_c 	( AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL000728 or AC5u0009GL001233 or AC5u0009GL001666 or AC5u0009GL001685 or AC5u0009GL001849 or AC5u0009GL002128 ) and ( AC5u0009GL000914 or AC5u0009GL000916 )	  0.00	1000.00	  0.00
+HL_PTA2	pi_c + ppcoa_c  -> coa_c + ppap_c 	AC5u0009GL000976 or AC5u0009GL001918	  0.00	1000.00	  0.00
+HL_PYDXPP	h2o_c + pydx5p_c  -> pi_c + pydx_c 	AC5u0009GL000581 or AC5u0009GL000581 or AC5u0009GL001752 or AC5u0009GL000621 or AC5u0009GL002175	  0.00	1000.00	  0.00
+HL_R5PP	h2o_c + r5p_c  -> pi_c + rib__D_c 	AC5u0009GL002089 or AC5u0009GL002089 or AC5u0009GL000639 or AC5u0009GL002157 or AC5u0009GL000621 or AC5u0009GL002175 or AC5u0009GL000581	  0.00	1000.00	  0.00
+HL_RBFSb	2 dmlz_c  -> 4r5au_c + ribflv_c 	AC5u0009GL001774 or AC5u0009GL001776	  0.00	1000.00	  0.00
+HL_RNTR1c2	atp_c + 2 h_c + 2 Flavodoxin reduced  -> datp_c + h2o_c + 2 Flavodoxin semi oxidized 	(( AC5u0009GL001161 or AC5u0009GL001905 ) and AC5u0009GL001026 )	  0.00	1000.00	  0.00
+HL_RNTR2c2	gtp_c + 2 h_c + 2 Flavodoxin reduced  -> dgtp_c + h2o_c + 2 Flavodoxin semi oxidized 	(( AC5u0009GL001161 or AC5u0009GL001905 ) and AC5u0009GL001026 )	  0.00	1000.00	  0.00
+HL_RNTR3c2	ctp_c + 2 h_c + 2 Flavodoxin reduced  -> dctp_c + h2o_c + 2 Flavodoxin semi oxidized 	(( AC5u0009GL001161 or AC5u0009GL001905 ) and AC5u0009GL001026 )	  0.00	1000.00	  0.00
+HL_RNTR4c2	2 h_c + utp_c + 2 Flavodoxin reduced  -> dutp_c + h2o_c + 2 Flavodoxin semi oxidized 	(( AC5u0009GL001161 or AC5u0009GL001905 ) and AC5u0009GL001026 )	  0.00	1000.00	  0.00
+HL_S4FE4SR	2 h_c + Flavin adenine dinucleotide reduced + SufBCD with two bound [2Fe-2S] clusters  -> fad_c + SufBCD with bound [4Fe-4S] cluster 	AC5u0009GL001758 and AC5u0009GL001762 and AC5u0009GL001758	  0.00	1000.00	  0.00
+HL_SDPTA	akg_c + sl26da_c  <=> glu__L_c + sl2a6o_c 	AC5u0009GL000606 or AC5u0009GL000606 or AC5u0009GL000606 or AC5u0009GL000606 or AC5u0009GL000780	-1000.00	1000.00	  0.00
+HL_SHSL1	cys__L_c + O-Succinyl-L-homoserine  -> cyst__L_c + h_c + succ_c 	AC5u0009GL000726	  0.00	1000.00	  0.00
+HL_SUCD1	fad_c + succ_c  <=> fum_c + Flavin adenine dinucleotide reduced 	AC5u0009GL001188 or AC5u0009GL001189	-1000.00	1000.00	  0.00
+HL_THFAT	h2o_c + methf_c  -> 5fthf_c + h_c 	AC5u0009GL000116	  0.00	1000.00	  0.00
+HL_THMDt2	h_e + thymd_e  -> h_c + thymd_c 	AC5u0009GL001663	  0.00	1000.00	  0.00
+HL_THRA	thr__L_c  -> acald_c + gly_c 	AC5u0009GL000116	  0.00	1000.00	  0.00
+HL_THRA2	L-Allo-threonine  -> acald_c + gly_c 	AC5u0009GL000116	  0.00	1000.00	  0.00
+HL_THRt2r	h_e + thr__L_e  <=> h_c + thr__L_c 	AC5u0009GL001226 or AC5u0009GL001105 or AC5u0009GL001225	-1000.00	1000.00	  0.00
+HL_TRE6PH	h2o_c + Alpha,alpha'-Trehalose 6-phosphate  -> g6p_c + glc__D_c 	AC5u0009GL001180	  0.00	1000.00	  0.00
+HL_TRPTA	akg_c + trp__L_c  <=> glu__L_c + indpyr_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591 or AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591 or AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+HL_UAAGLS1	atp_c + lys__L_c + uamag_c  -> adp_c + 2 h_c + pi_c + uAgl_c 	AC5u0009GL000121	  0.00	1000.00	  0.00
+HL_UAGPT1	uacgam_c + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine  -> h_c + udp_c + Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine 	AC5u0009GL001334	  0.00	1000.00	  0.00
+HL_UDPGPT	udcpp_c + udpg_c  <=> ump_c + Undecaprenol-diphosphate-glucose 	AC5u0009GL001150 or AC5u0009GL001448 or AC5u0009GL001797	-1000.00	1000.00	  0.00
+HL_UGMDDS	alaala_c + atp_c + ugmd_c  -> adp_c + h_c + pi_c + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 	AC5u0009GL000365	  0.00	1000.00	  0.00
+HL_araphe1	4mop_c + phe__L_c  -> leu__L_c + phpyr_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	  0.00	1000.00	  0.00
+HL_araphe3	indpyr_c + phe__L_c  -> phpyr_c + trp__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	  0.00	1000.00	  0.00
+HL_aratry1	4mop_c + trp__L_c  -> indpyr_c + leu__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	  0.00	1000.00	  0.00
+HL_aratyr1	4mop_c + tyr__L_c  -> 34hpp_c + leu__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	  0.00	1000.00	  0.00
+HL_aratyr3	phpyr_c + tyr__L_c  <=> 34hpp_c + phe__L_c 	AC5u0009GL000055 or AC5u0009GL000419 or AC5u0009GL001361 or AC5u0009GL001591	-1000.00	1000.00	  0.00
+HL_ADSK	atp_c + Adenosine 5'-phosphosulfate  -> adp_c + h_c + 3'-Phosphoadenylyl sulfate 	AC5u0009GL000071	  0.00	1000.00	  0.00
+HL_BPNT	h2o_c + pap_c  -> amp_c + pi_c 	AC5u0009GL001379	  0.00	1000.00	  0.00
+HL_KARA2	2ahbut_c + h_c + nadph_c  <=> nadp_c + (R)-2,3-Dihydroxy-3-methylpentanoate 	AC5u0009GL000793	-1000.00	1000.00	  0.00
+HL_SERAT	accoa_c + ser__L_c  <=> acser_c + coa_c 	AC5u0009GL001357	-1000.00	1000.00	  0.00
+FRUabc_e	atp_c + h2o_c + fru_e  -> adp_c + fru_c + h_c + pi_c 		  0.00	1000.00	  0.00
+MNLabc_e	atp_c + h2o_c + mnl_e  -> adp_c + h_c + mnl_c + pi_c 	AC5u0009GL001848 or AC5u0009GL000165 or AC5u0009GL000668 or AC5u0009GL001849 or AC5u0009GL002128	  0.00	1000.00	  0.00
+R05140 	sucr_e + Levan  <=> glc__D_e + Levan_L 	AC5u0009GL000236	-1000.00	1000.00	  0.00
+AC5_RNA	27.2 atp_c + 0.196 ctp_c + 0.1895 gtp_c + 27.2 h2o_c + 0.3088 utp_c  -> 27.2 adp_c + 27.2 h_c + 27.2 pi_c + m_0016 		  0.00	1000.00	  0.00
+AC5_PROTEIN	0.047 alatrna_c + 0.061 argtrna_c + 0.058 asntrna_c + 0.03 asptrna_c + 0.306 atp_c + 0.039 cystrna_c + 0.039 glntrna_c + 0.029 glutrna_c + 0.042 glytrna_c + 12 gtp_c + 12.306 h2o_c + 0.031 histrna_c + 0.08 iletrna_c + 0.117 leutrna_c + 0.059 lystrna_c + 0.019 mettrna_c + 0.06 phetrna_c + 0.044 protrna_c + 0.093 sertrna_c + 0.055 thrtrna_c + 0.016 trptrna_c + 0.036 tyrtrna_c + 0.054 valtrna_c  -> 0.306 adp_c + 12 gdp_c + 12.306 h_c + 12.306 pi_c + 0.047 trnaala_c + 0.061 trnaarg_c + 0.058 trnaasn_c + 0.03 trnaasp_c + 0.039 trnacys_c + 0.068 trnaglu_c + 0.042 trnagly_c + 0.031 trnahis_c + 0.08 trnaile_c + 0.117 trnaleu_c + 0.059 trnalys_c + 0.019 trnamet_c + 0.06 trnaphe_c + 0.044 trnapro_c + 0.093 trnaser_c + 0.055 trnathr_c + 0.016 trnatrp_c + 0.036 trnatyr_c + 0.054 trnaval_c + m_0015 		  0.00	1000.00	  0.00
+AC5_DNA	29.37 atp_c + 0.3035 datp_c + 0.1965 dctp_c + 0.1965 dgtp_c + 0.3035 dttp_c + 29.37 h2o_c  -> 29.37 adp_c + 29.37 h_c + 29.37 pi_c + m_0014 		  0.00	1000.00	  0.00
+AC5_BIOMASS	0.4717 CPS_LRE_c + 0.1211 PGlac2_c + 49.7 atp_c + 0.0002 coa_c + 1e-05 gthrd_c + 49.7 h2o_c + 0.0002 nad_c + 1e-05 pydx5p_c + 0.0002 ribflv_c + 0.0002 thf_c + 0.0002 udcpdp_c + 0.0002 adeadocbl_c[] + 1e-05 btn_c + 1e-05 thmpp_c + 0.0154 LTAtotal_LRE_c[] + 0.0054 LIP_LRE_c[] + 0.0625 m_0014 + 2.8925 m_0015 + 0.2861 m_0016  -> 49.7 adp_c + 49.7 h_c + 49.7 pi_c + m_0013 		  0.00	1000.00	  0.00
+AC5_GROWTH	m_0013  -> 		  0.00	1000.00	  1.00
+EXC_BOTH_4ahmmp_e	4ahmmp_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_arg__L_e	arg__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_chol_e	chol_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_cobalt2_e	cobalt2_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_cu2_e	cu2_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_cys__D_e	cys__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_cys__L_e	cys__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_fuc__L_e	fuc__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_glc__D_e	glc__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_glcn__D_e	glcn__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_gln__L_e	gln__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_glu__L_e	glu__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_glyc_e	glyc_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_h_e	h_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_his__L_e	his__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ile__L_e	ile__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_lcts_e	lcts_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_leu__L_e	leu__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_lys__L_e	lys__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_met__D_e	met__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_met__L_e	met__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_mnl_e	mnl_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_orn__L_e	orn__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_pi_e	pi_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ser__L_e	ser__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_spmd_e	spmd_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_sucr_e	sucr_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_thr__L_e	thr__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_tre_e	tre_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_tyr__L_e	tyr__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_val__L_e	val__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_xan_e	xan_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_rib__D_e	rib__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_gal_e	gal_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_malt_e	malt_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_13ppd_e	13ppd_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_4abz_e	4abz_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ac_e	ac_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ala__L_e	ala__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_arab__L_e	arab__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_asn__L_e	asn__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_asp__L_e	asp__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_btd__RR_e	btd__RR_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_btn_e	btn_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_co2_e	co2_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_etoh_e	etoh_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_fru_e	fru_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_gcald_e	gcald_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_gly_e	gly_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_h2o_e	h2o_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_hxan_e	hxan_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_lac__D_e	lac__D_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_lac__L_e	lac__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_mal__L_e	mal__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_nac_e	nac_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_nh3_e	nh3_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_orot_e	orot_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_phe__L_e	phe__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_pnto__R_e	pnto__R_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_pro__L_e	pro__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_pydam_e	pydam_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_thm_e	thm_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_trp__L_e	trp__L_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_o2_e	o2_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_h2s_e	h2s_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_melib_e	melib_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_raffin_e	raffin_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_hdcea_e	hdcea_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ocdcya_e	ocdcya_e  <=> 		-1000.00	1000.00	  0.00
+EXC_BOTH_ocdctr_e	ocdctr_e  <=> 		-1000.00	1000.00	  0.00
